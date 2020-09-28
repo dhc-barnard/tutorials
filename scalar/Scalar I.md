@@ -227,7 +227,7 @@ For the first option "Make URL public?" use the drop-down menu to select "Yes."
 If you would like to hide individual pages, select the "Pages" tab on your dashboard. For each page you want to hide, select "Edit," then change the "Live?" option to "No." Be sure to save the line when you are finished.
 
 <p align="center">
-  <img src="/images/scalar/hidepages.png">
+  <img src="/images/scalar/hidefiles.png">
 </p>
 
 # Reflection:

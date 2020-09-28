@@ -191,12 +191,51 @@ To change your title:
 
 Now that you have a title, we can make that book cover. To make a snazzy book cover, you'll need a snazzy image or video. If you need to upload one, go ahead and do that now. Then: 
 
+1. If you're on the dashboard, elect "back to book".  <img align="right" width="300" height="275" src="/images/scalar/bookcover.png">
+2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the ![pencil icon](/images/scalar/pencil.png) button above to add some." Click the pencil icon to edit your home page.
+3. You may need to add a title as this field cannot be blank. Please note, however, that the "book splash" layout uses your book title not the page title, so anything in this field will not be displayed. 
+4. Navigate to the "layout" tab at the bottom of the page. In the drop-down menu select "Book Splash."
+5. A Book Splash will create a blank and pretty boring grey cover if you don't add an image to be a part of the cover. To do that, click the "styling" tab and then click "key image."
+6. Choose the image you want to be a part of your cover, save, and voila! You have a book cover!
+
+## Making your cover a path
+
+Okay so you have a book cover, but it doesn't lead anywhere. What do you do now? Remember paths? Let's make your book cover a path to lead readers to the inside.
+1. Go back to your page editor and select "relationships" and then "paths."
+2. Then choose the items it contains (at least your first content page).
+3. Save and view your new book cover!
+
+## Adding collaborators and/or students
+
+Students and other collaborators  must first register with Scalar in order to be added to your book. Once students have registered with Scalar, you can add them to your book by first going to the dashboard . 
+
+1. Go to the dashboard (the wrench icon ![wrench](/images/scalar/wrench.png)).
+2. Select the "Book users" tab.
+3. At the bottom left of the screen, select the "Add a user" button. 
+4. When the pop up appears, you can search for a user's full name in Scalar's database. Feel free to search for "Alicia Peaker" or "Ana Lam" from the DHC and add us to your book!
+
+## Publish your book
+
+By default, Scalar books are only visible to the creator(s) when logged in.
+
+To make your book publicly available, go to the "Sharing" tab on your dashboard.
+
+For the first option "Make URL public?" use the drop-down menu to select "Yes."
+
+## Hide individual pages
+
+If you would like to hide individual pages, select the "Pages" tab on your dashboard. For each page you want to hide, select "Edit," then change the "Live?" option to "No." Be sure to save the line when you are finished.
+
 <p align="center">
-  <img src="/images/scalar/bookcover.png">
+  <img src="/images/scalar/hidepages.png">
 </p>
 
-If you're on the dashboard, elect "back to book".
-Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the 
+# Reflection:
+-  How did creating multi-linear paths through your content make you think differently about your project?
+- One of the common affective experiences of reading a Scalar book is an anxiety about missing content, of not being certain you're reading everything you should. How might you confront this reaction in your reading practice and production of books?
+# Things to consider when using this tool in the classroom
+- You may opt to create a book and invite your students to collaborate on it, or each student (or group of students) may create their own books and share them with you. 
+- Students must register with Scalar before you can add them to your book.
 
 
 

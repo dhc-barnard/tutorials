@@ -29,5 +29,82 @@ Scalar requires you to add media independent of adding the media to a page. This
 Sometimes it's impossible or impractical to link to media, particularly if that media is at risk of disappearing. In those cases, use Scalar's upload feature. 
 
 1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files."
-![uploadmedia]
+![uploadmedia](/images/scalar/uploadmedia.png)
+2. You'll be redirected to a page where you can upload a file from your computer and input any metadata. The max  file size for uploading is 2MB.
+
+### Linking Media
+While you certainly can upload media into Scalar, Scalar was built on the ethos that media should remain with its creators and trusted partners. Once you download an image from the web, you divorce it from its context and often its metadata. Every time we upload another copy of O'Keefe's Black Iris to the web, we add to the carbon footprint of the server that's storing it (and backing it up). 
+
+To link to media files hosted elsewhere on the web, follow the instructions above, but select "Link to media files." You will be redirected to a similar page asking for a url. 
+
+### Linking Media from Affiliated Archives
+Scalar has built-in tools for importing metadata and links to media files from affiliates and from some publicly available sources (e.g. Youtube). 
+
+1. Hover over the same button you used to upload images and then hover over affiliated archives. Select the Internet Archive.
+2. You will be redirected to a page with a search box. Once you've entered something into the search box, you will see the media available and can select which media you want to upload. 
+3. Select at least one video file.
+4. Click "import selected." You will then see all of the metadata that Scalar is automatically importing from the source. 
+
+Sometimes Scalar encounters difficulty accessing the affiliated and unaffiliated archives. If that happens, use the "link to files" option instead. 
+
+Because Scalar is not keeping a copy of the media file on its servers, if it is taken down by the source, the metadata will continue to be visible in your Scalar book, but the media will not.
+
+### Annotating Media
+
+Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
+
+![annotate media](/images/scalar/annotatemedia.png)
+
+On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
+
+### Annotating Images
+
+To annotate an image:
+1. While on a media page, select the paperclip icon in the top right. If you can't see the paperclip, you likely aren't on a media page. 
+2. Click and drag anywhere on the image to create an annotation box. 
+3. Add a comment about that part of the image.
+4. Once you create the annotation you can edit the size and dimensions of the box and add more details.
+5. Click Done.
+6. Hover over your image to find your annotation. There will also be a new "Annotation" tab below the image that will list any annotations associated with this media object.
+
+### Annotating Videos
+
+Annotating a video or audio clip is slightly different. While the beginning process is the same, once you're on the annotation editing page for a video:
+1. Click the plus sign button near the bottom of the page. 
+2. When prompted in the annotation editor, set the start and end time by pressing the "set" buttons at the desired times in the video.
+3. Once the times are set, you can feel free to add any information you'd like in the title, description, and content. 
+4. When finished, click "Save" and then "Done" to return to the media page.
+5. There will also be a new "Annotation" tab below the video that will list any annotations associated with this media object. Select an annotation to go directly to its timestamp.
+
+## Create a page
+
+Now that you've added some media, you can create a page to hold that media! To create a page:
+1. Press the plus button on the right hand side.
+2. You'll be redirected to a page editor with a textbox. In that textbox, you can add whatever content you'd like. Go ahead and add some text.
+3. Once you're done, add a title and description and click "save."
+4. Create at least three pages.
+
+## Embedding Media and Annotations
+1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
+2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. ![playbuttons](playbuttons.png) 
+3. Click on the play button with lines around it and select media from the window that pops up. 
+4.  You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
+5.  Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. 
+6. Click "Save and View at the bottom of the page. Take a look at your new page!
+<img align="right" width="100" height="100" src="/images/scalar/embeddedmedia.png">
+
+As you will see, this feature plops your media file exactly where you placed it on the page. To create a more dynamic linking of text and media:
+1. Click the edit icon again.
+2. Highlight a piece of text and click on the first blue play button.
+3. Follow the same process of embedding an inline media link.
+4. Try this out and see how it looks on the front-end.
+
+Bonus: Change the [layout](https://scalar.usc.edu/works/guide2/selecting-a-pages-default-view) of your page to see how Scalar dynamically works with media. 
+
+# Step 3: Creating Relationships with Tags
+
+Scalar has a “flat ontology” which means that every kind of thing in Scalar (a media object, a page, an annotation) is equal to every other thing. 
+
+![flat ontology](/images/scalar/flatontology.jpg)
+
 

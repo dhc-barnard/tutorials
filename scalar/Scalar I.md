@@ -29,7 +29,7 @@ Scalar requires you to add media independent of adding the media to a page. This
 Sometimes it's impossible or impractical to link to media, particularly if that media is at risk of disappearing. In those cases, use Scalar's upload feature. 
 
 1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files."
-![uploadmedia](/images/scalar/uploadmedia.png)
+<img align="right" width="300" height="300" src="/images/scalar/uploadmedia.png">
 2. You'll be redirected to a page where you can upload a file from your computer and input any metadata. The max  file size for uploading is 2MB.
 
 ### Linking Media
@@ -53,7 +53,7 @@ Because Scalar is not keeping a copy of the media file on its servers, if it is 
 
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
-![annotate media](/images/scalar/annotatemedia.png)
+<img align="right" width="300" height="300" src="/images/scalar/annotatemedia.png">
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
 
@@ -86,12 +86,12 @@ Now that you've added some media, you can create a page to hold that media! To c
 
 ## Embedding Media and Annotations
 1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
-2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. ![playbuttons](playbuttons.png) 
+2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="100" height="100" src="/images/scalar/playbuttons.png">
 3. Click on the play button with lines around it and select media from the window that pops up. 
 4.  You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
 5.  Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. 
 6. Click "Save and View at the bottom of the page. Take a look at your new page!
-<img align="right" width="100" height="100" src="/images/scalar/embeddedmedia.png">
+<img align="right" width="300" height="300" src="/images/scalar/embeddedmedia.png">
 
 As you will see, this feature plops your media file exactly where you placed it on the page. To create a more dynamic linking of text and media:
 1. Click the edit icon again.

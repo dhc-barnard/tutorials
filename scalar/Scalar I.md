@@ -7,4 +7,4 @@ To create a Scalar account, follow these instructions:
 3. Use Registration key:
 4. Once you've regeistered, you should be redirected to your dashboard, if you are not already on the "My Account Tab," navigate to that tab.
 5. There should be an option to create a new book at the bottom of the page which should look like the image below:
-![Make new Scalar book](tutorials/images/makenewbook.png)
+![Make new Scalar book](/../images/makenewbook.png)

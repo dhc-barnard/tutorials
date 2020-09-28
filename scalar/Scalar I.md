@@ -53,7 +53,7 @@ Because Scalar is not keeping a copy of the media file on its servers, if it is 
 
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
-<img align="right" width="325" height="300" src="/images/scalar/annotatemedia.png">
+<img align="right" width="325" height="275" src="/images/scalar/annotatemedia.png">
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
 
@@ -104,6 +104,102 @@ Bonus: Change the [layout](https://scalar.usc.edu/works/guide2/selecting-a-pages
 
 Scalar has a “flat ontology” which means that every kind of thing in Scalar (a media object, a page, an annotation) is equal to every other thing. 
 
-![flat ontology](/images/scalar/flatontology.jpg)
+<p align="center">
+  <img src="/images/scalar/flatontology.jpg">
+</p>
+<p align="center">
+  <i>Diagram by Erik Loyer, courtesy of Scalar team.</i>
+</p>
+
+This has some radical implications for structure and for creating relationships in Scalar. Think about how hashtags (text) work to connect and collect conversations. Now imagine an image doing that work.
+
+Because of this flat ontology, images or videos can function as tags, and videos can be tagged with other videos...or images...or other tags. 
+
+Tags are useful for connecting content thematically. 
+
+<p align="center">
+  <img src="/images/scalar/tags.png">
+</p>
+<p align="center">
+  <i>Diagram by Erik Loyer, courtesy of Scalar team.</i>
+</p>
+
+## Creating tags
+1. Create a new page (on the front-end of site, click on the plus icon).
+2. Give your tag a title (consider a theme that runs throughout your course or project).
+3. Under the Relationships tab, select “Tag.”
+4. Select the items that it tags.
+5. Under the "Layouts" tab, select "Tag."
+6. Save and view!
+7. Repeat for a couple of themes. 
+
+# Step 4. Creating Structure with Paths
+
+While tags are non-linear in Scalar, "paths" are linear. You create a path much like a tag, but in creating a path you create a multi-linear structure. 
+
+Because of Scalar's flat ontology, any Scalar object can be a stop along the path. This is useful if you want students or readers to pause on an image or attend to a particular annotation. 
+
+<p align="center">
+  <img src="/images/scalar/tagpaths.png">
+</p>
+<p align="center">
+  <i>Diagram by Erik Loyer, courtesy of Scalar team.</i>
+</p>
+
+This structure also allows you to set up choices for readers to make. 
+
+## Planning Paths
+
+ In a Scalar book with lots of content, keeping track of your structure can feel unwieldy. We recommend doing some planning first--whether in analogue or digital form.
+
+1. Using a tool you feel comfortable with (e.g. sticky notes, Google slides, etc.) write out the most important chunks of content for your Scalar book.
+2. Draw lines to connect content.
+3. Move the chunks into linear paths.
+4. Think about where paths might diverge and where they might connect.
+5. When a reader reaches the end of a path, where do you want them to go next?
+
+## Creating paths in Scalar
+
+1. Create a new page (on the front-end of site, click on the plus icon).
+2. Give your page a title.
+3. Under the Relationships tab, select “Path.”
+4. Select the items that are on the path.
+5. Save and view your page. 
+6. Create at least two paths following the instructions above.
+7. Create a new path and include an existing path as one of the items on this new path. 
+8. Explore the path!
+
+BONUS: Use Scalar's [visualization tools](https://scalar.usc.edu/works/guide2/path-visualization?path=visualizations) to view your new path structure
+
+# Step 5. Make it a book!
+
+<p align="center">
+  <img src="/images/scalar/booksplash.gif">
+</p>
+
+ You have content now, but how do you make it look like a book? Above is an example of the Book Splash layout which will give your book a nice cover. 
+
+## Changing the title
+
+To change your title:
+1. Go to your dashboard (the wrench icon).
+2. Click on the "Book properties" tab.
+3. Edit your title in the title field.
+4. You can also add a subtitle and a description. 
+
+## Making a book cover
+
+Now that you have a title, we can make that book cover. To make a snazzy book cover, you'll need a snazzy image or video. If you need to upload one, go ahead and do that now. Then: 
+
+<p align="center">
+  <img src="/images/scalar/bookcover.png">
+</p>
+
+If you're on the dashboard, elect "back to book".
+Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the 
+
+
+
+
 
 

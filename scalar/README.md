@@ -1,10 +1,11 @@
-# Scalar I
+# Scalar Tutorials
 *created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis*
 
 <img align="left" width="75" height="25" src="/images/scalar/cc.png">
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+# [Scalar I](https://github.com/dhc-barnard/tutorials/blob/master/scalar/Scalar%20I.md)
 ## Introduction to the tool:
 Scalar is a free, open-source tool for digital authoring and publishing that “enables users to assemble media from multiple sources and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required” ([Scalar website](https://scalar.me/anvc/scalar/)).
 
@@ -26,7 +27,7 @@ Scalar is a free, open-source tool for digital authoring and publishing that “
 ### This tool is not great for:
 - Storing lots of images or large images (if your project is object-centered, try [Omeka](https://www.omeka.net/) or [Wax](https://minicomp.github.io/wax/) instead)
 
-# Scalar II
+# [Scalar II](https://github.com/dhc-barnard/tutorials/blob/master/scalar/Scalar%20II.md)
 
 ## Introduction to the tool:
 Scalar is a digital publishing platform that allows creators to juxtapose media and text and create multi-linear pathways through their books or projects. Scalar has robust features out-of-the-box, but it also provides advanced features to creators who want to take their projects to the next level. We'll explore a few of those features in this tutorial.

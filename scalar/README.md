@@ -1,6 +1,8 @@
 # Scalar I
 *created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis*
 
+<img align="left" width="50" height="15" src="/images/scalar/cc.png">
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Introduction to the tool:

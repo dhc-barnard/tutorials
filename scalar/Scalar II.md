@@ -1,7 +1,7 @@
 # Page Versions
 Each time a page is saved, Scalar creates a new version of that page. Scalar makes a history of versions, available to all authors, along with metadata about each version and the ability to revert to any version. In Scalar:
 
-<img align="right" width="200" height="400" src="/images/scalar/version.png">
+<img align="right" width="200" height="400" src="/images/scalar/version.gif">
 
 - Versions are accessible to authors.
 - You can see when a version was published and who published it.
@@ -110,7 +110,7 @@ One way to display media and metadata visually on Scalar is to use its Timeline 
 
 
 <p align="center">
-  <img width="400" height="300" src="/images/scalar/mediagallery.png">
+  <img src="/images/scalar/mediagallery.png">
 </p>
 
 If you're working with a particularly media-heavy page and want to showcase that media, try the Media Gallery layout, which puts all media embedded on a page into a carousel at the top of the page. This layout gives you less flexibility than the Carousel widget (which lets you select which media to include and where to place the carousel).

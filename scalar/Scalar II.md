@@ -110,7 +110,7 @@ One way to display media and metadata visually on Scalar is to use its Timeline 
 
 
 <p align="center">
-  <img src="/images/scalar/mediagallery.png">
+  <img  width="600" height="350"src="/images/scalar/mediagallery.png">
 </p>
 
 If you're working with a particularly media-heavy page and want to showcase that media, try the Media Gallery layout, which puts all media embedded on a page into a carousel at the top of the page. This layout gives you less flexibility than the Carousel widget (which lets you select which media to include and where to place the carousel).

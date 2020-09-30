@@ -1,11 +1,10 @@
 # Barnard Digital Humanities Center Tutorials
 
-<<<<<<< HEAD
-Here we have tutorials for the techonologies that our center supports. These tools capture our values, such as sustainability, collaboration, and exploration. We hope to empower your project decisions by identifying advantages/disadvantages of each tool and by encouraging self-reflective tool use.
+Here we have tutorials for the techonologies that our center supports. These tools encapsulate our values, such as sustainability, collaboration, and exploration. We hope to empower your project decisions by identifying advantages/disadvantages of each tool and by encouraging self-reflective tool use.
 
-## Tutorials:
-[Beginner Scalar](#scalar-i)
-[Intermediate Scalar](#scalar-ii)
+## Our Tutorials:
+* [Beginner Scalar](#scalar-i)
+* [Intermediate Scalar](#scalar-ii)
 
 # Scalar I:
 ## Introduction to the tool:
@@ -33,7 +32,4 @@ This tutorial assumes that you have already created a Scalar book that includes 
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
 
-Our Intermediate Scalar tutorial is located here: [Scalar II.md](https://github.com/dhc-barnard/tutorials/blob/master/Scalar%20II.md
-=======
-Here we have tutorials for the techonologies that our center supports. These tools encapsulate our values, such as sustainability, collaboration, and exploration. Each tutorial describes the advantages and disadvantages of each tool and features example of the technologies in use to empower your own project decisions.
->>>>>>> 1bac54e5c5a90139bace62749d153db729836136
+Our Intermediate Scalar tutorial is located here: [Scalar II.md](https://github.com/dhc-barnard/tutorials/blob/master/Scalar%20II.md)

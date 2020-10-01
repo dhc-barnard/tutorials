@@ -2,8 +2,7 @@
 
 Here we have tutorials for the techonologies that our center supports. These tools encapsulate our values, such as sustainability, collaboration, and exploration. We hope to empower your project decisions by identifying advantages/disadvantages of each tool and by encouraging self-reflective tool use.
 
-## Tutorials:
-- ## Our Tutorials:
+## Our Tutorials:
 * [Beginner Scalar](#scalar-i)
 * [Intermediate Scalar](#scalar-ii)
 

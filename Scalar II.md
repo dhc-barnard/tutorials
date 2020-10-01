@@ -1,4 +1,10 @@
 # Scalar II
+*created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis*
+
+<img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 # Page Versions
 Each time a page is saved, Scalar creates a new version of that page. Scalar makes a history of versions, available to all authors, along with metadata about each version and the ability to revert to any version. In Scalar:
 

@@ -1,4 +1,10 @@
 # Scalar I
+*created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis*
+
+<img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 # Step 1: Getting Started
 ## Sign Up
 

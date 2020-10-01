@@ -1,7 +1,8 @@
+# Scalar II
 # Page Versions
 Each time a page is saved, Scalar creates a new version of that page. Scalar makes a history of versions, available to all authors, along with metadata about each version and the ability to revert to any version. In Scalar:
 
-<img align="right" width="200" height="400" src="/images/scalar/version.gif">
+<img align="right" width="30%" src="/images/scalar/version.gif" alt="comic of student and professor exchanging 'final'.doc" >
 
 - Versions are accessible to authors.
 - You can see when a version was published and who published it.
@@ -30,7 +31,7 @@ Now that you've added some rich metadata to your media objects, we'll take some 
 Similar to inserting media, you can insert a widget either inline or as a link. Let's add an inline widget. 
 
 <p align="center">
-  <img width="500" height="300" src="/images/scalar/inlinewidget.png">
+  <img width="60%" src="/images/scalar/inlinewidget.png" alt="Screen grab of the widget selections" >
 </p>
 
 1. Navigate to your page editor (pencil icon).
@@ -70,7 +71,7 @@ It can be difficult to hold all of the relationships you've created in Scalar in
 Let's start by visualizing tags through a force-directed graph (also known as a network graph). 
 
 
-<img align="right" width="400" height="300" src="/images/scalar/visualization.png">
+<img align="right" width="50%" src="/images/scalar/visualization.png alt="Screen grab of the visualized paths by tags">
 
 1. Create a new page or edit a page where you'd like to embed a visualization. 
 2. To add a Visualization widget, click on either the linked or inline widget button in the page editor and then choose “Visualization” from the widget options.
@@ -110,7 +111,7 @@ One way to display media and metadata visually on Scalar is to use its Timeline 
 
 
 <p align="center">
-  <img  width="600" height="350"src="/images/scalar/mediagallery.png">
+  <img  width="70% "src="/images/scalar/mediagallery.png" alt="Screen grab of the slide show like media gallery >
 </p>
 
 If you're working with a particularly media-heavy page and want to showcase that media, try the Media Gallery layout, which puts all media embedded on a page into a carousel at the top of the page. This layout gives you less flexibility than the Carousel widget (which lets you select which media to include and where to place the carousel).
@@ -126,7 +127,7 @@ The Visual Path (originally [developed](http://aliciapeaker.org/?p=445) by our o
    - To add key images, edit each page on your path. Under the "Styling" tab, select "key image," and then select an image. 
 
 <p align="center">
-  <img  src="/images/scalar/visualpath.png">
+  <img width="80%"  src="/images/scalar/visualpath.png" alt="Screen grab of visual path where key images indicate pages">
 </p>
 
 # Design Features
@@ -159,7 +160,7 @@ To make your book duplicable:
 
 
 <p align="center">
-  <img  src="/images/scalar/duplicability.png">
+  <img  src="/images/scalar/duplicability.png" alt="Screen grab of duplicability security selection >
 </p>
 
 That's it! Now to create a new book from this template:
@@ -214,4 +215,21 @@ In the same section where we added CSS code snippets, you can add your own CSS t
 -  Throughout this module, you explored several methods of visualizing the contents of your Scalar book. How did the visualization tools force you to think differently about the relationships among your content? 
 - What limitations and affordances did you encounter or do you imagine in using Scalar for a particular purpose (making an argument, telling a story, or any other purpose you have)? How did you confront the space between your desires for the book and what the tools allowed?
 
+# Resources
+##  Examples of succesful projects:
+- [Women of the Early Harlem Renaissance](https://scalar.lehigh.edu/harlemwomen/index)
+- [Black Quotidian](http://blackquotidian.supdigital.org/bq/index)
+- [The Girl The Myth, The Fanfiction](https://taylorfaires.com/scalar/the-girl-the-myth-the-fanfiction)
 
+##  Syllabi/Assignments using this tool:
+- [Digital Diversity](https://hcommons.org/deposits/item/hc:20443/)
+- [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
+
+## Guides & Tutorials:
+- [Customizing Look and Feel With CSS](https://scalar.usc.edu/works/guide2/customizing-look-and-feel-with-css?path=advanced-topics)
+- [Working with Widgets](https://scalar.usc.edu/works/guide2/working-with-widgets)
+- [Working with Structure](https://scalar.usc.edu/works/guide2/working-with-structure)
+
+## Barnard Resources:
+- [Digital Humanities Center](digitalhumanities.barnard.edu)
+~                                                           

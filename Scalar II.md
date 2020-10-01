@@ -71,7 +71,7 @@ It can be difficult to hold all of the relationships you've created in Scalar in
 Let's start by visualizing tags through a force-directed graph (also known as a network graph). 
 
 
-<img align="right" width="50%" src="/images/scalar/visualization.png alt="Screen grab of the visualized paths by tags">
+<img align="right" width="50%" src="/images/scalar/visualization.png" alt="Screen grab of the visualized paths by tags">
 
 1. Create a new page or edit a page where you'd like to embed a visualization. 
 2. To add a Visualization widget, click on either the linked or inline widget button in the page editor and then choose “Visualization” from the widget options.
@@ -111,7 +111,7 @@ One way to display media and metadata visually on Scalar is to use its Timeline 
 
 
 <p align="center">
-  <img  width="50% src="/images/scalar/mediagallery.png" alt="Screen grab of the slide show like media gallery >
+  <img  width="50% src="/images/scalar/mediagallery.png" alt="Screen grab of the slide show like media gallery">
 </p>
 
 If you're working with a particularly media-heavy page and want to showcase that media, try the Media Gallery layout, which puts all media embedded on a page into a carousel at the top of the page. This layout gives you less flexibility than the Carousel widget (which lets you select which media to include and where to place the carousel).

@@ -30,7 +30,7 @@ Scalar requires you to add media independent of adding the media to a page. This
 Sometimes it's impossible or impractical to link to media, particularly if that media is at risk of disappearing. In those cases, use Scalar's upload feature. 
 
 1. To upload media from the front-end of your site, hover over the upload button on the right hand side of your book.Then hover over "Files and URLs." Finally, select "Upload media files."
-<img align="right" width="325" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
+<img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
 2. You'll be redirected to a page where you can upload a file from your computer and input any metadata. The max  file size for uploading is 2MB.
 
 ### Linking Media
@@ -54,7 +54,7 @@ Because Scalar is not keeping a copy of the media file on its servers, if it is 
 
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
-<img align="right" width="375" src="/images/scalar/annotatemedia.png" alt="Screen grab of Scalar's annotation tool">
+<img align="right" width="40%" src="/images/scalar/annotatemedia.png" alt="Screen grab of Scalar's annotation tool">
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
 
@@ -87,10 +87,10 @@ Now that you've added some media, you can create a page to hold that media! To c
 
 ## Embedding Media and Annotations
 1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
-2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="100" src="/images/scalar/playbuttons.png" alt="Play buttons">
+2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="10%" src="/images/scalar/playbuttons.png" alt="Play buttons">
 3. Click on the play button with lines around it and select media from the window that pops up. 
 4.  You can then adjust the media size, align properties, and caption. You also can select whether the image is in a new line or if you want text to wrap around it. If your media has annotations, you can choose which annotations to include in this embedded media.
-5.  Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. <img align="right" width="350" src="/images/scalar/embeddedmedia.png" alt="Screen grab of embedding media editor">
+5.  Once you've done this, click "continue." Don't worry if it looks odd on the editing page screen or you see grey boxes. <img align="right" width="40%" src="/images/scalar/embeddedmedia.png" alt="Screen grab of embedding media editor">
 6. Click "Save and View at the bottom of the page. Take a look at your new page!
 
 As you will see, this feature plops your media file exactly where you placed it on the page. To create a more dynamic linking of text and media:
@@ -183,7 +183,7 @@ BONUS: Use Scalar's [visualization tools](https://scalar.usc.edu/works/guide2/pa
 ## Changing the title
 
 To change your title:
-1. Go to your dashboard (the wrench icon).<img src="/images/scalar/pencil.png" width="50" alt="pencil icon"> 
+1. Go to your dashboard (the wrench icon).<img src="/images/scalar/wrench.png" width="5%" alt="wrench icon"> 
 2. Click on the "Book properties" tab.
 3. Edit your title in the title field.
 4. You can also add a subtitle and a description. 
@@ -192,8 +192,8 @@ To change your title:
 
 Now that you have a title, we can make that book cover. To make a snazzy book cover, you'll need a snazzy image or video. If you need to upload one, go ahead and do that now. Then: 
 
-1. If you're on the dashboard, elect "back to book".  <img align="right" width="375" src="/images/scalar/bookcover.png" alt="Screen grab of Scalar layout selection">
-2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the <img src="/images/scalar/pencil.png" width="50" alt="pencil icon"> button above to add some." Click the pencil icon to edit your home page.
+1. If you're on the dashboard, elect "back to book".  <img align="right" width="40%" src="/images/scalar/bookcover.png" alt="Screen grab of Scalar layout selection">
+2. Once there, you should be at your home (aka index) page.  You may see: "This page contains no content. Click the <img src="/images/scalar/pencil.png" width="5%" alt="pencil icon"> button above to add some." Click the pencil icon to edit your home page.
 3. You may need to add a title as this field cannot be blank. Please note, however, that the "book splash" layout uses your book title not the page title, so anything in this field will not be displayed. 
 4. Navigate to the "layout" tab at the bottom of the page. In the drop-down menu select "Book Splash."
 5. A Book Splash will create a blank and pretty boring grey cover if you don't add an image to be a part of the cover. To do that, click the "styling" tab and then click "key image."
@@ -210,7 +210,7 @@ Okay so you have a book cover, but it doesn't lead anywhere. What do you do now?
 
 Students and other collaborators  must first register with Scalar in order to be added to your book. Once students have registered with Scalar, you can add them to your book by first going to the dashboard . 
 
-1. Go to the dashboard (the wrench icon <img src="/images/scalar/wrench.png" width="50" alt="wrench icon">).
+1. Go to the dashboard (the wrench icon <img src="/images/scalar/wrench.png" width="5%" alt="wrench icon">).
 2. Select the "Book users" tab.
 3. At the bottom left of the screen, select the "Add a user" button. 
 4. When the pop up appears, you can search for a user's full name in Scalar's database. Feel free to search for "Alicia Peaker" or "Ana Lam" from the DHC and add us to your book!

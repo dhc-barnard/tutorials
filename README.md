@@ -6,7 +6,7 @@ Here we have tutorials for the techonologies that our center supports. These too
 * [Beginner Scalar](#scalar-i)
 * [Intermediate Scalar](#scalar-ii)
 
-# Scalar I:
+# Scalar I
 ## Introduction to the tool:
 
 Scalar is a free, open-source tool for digital authoring and publishing that "enables users to assemble media from multiple soucres and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required" ([Scalar website](https://scalar.me/anvc/scalar/)).

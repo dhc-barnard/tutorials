@@ -1,5 +1,6 @@
 # Scalar I
 *created by Taylor Faires, Alicia Peaker, and Miranda Jones-Davidis*
+
 *updated September 28, 2020 by Ana Lam*
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 

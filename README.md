@@ -32,7 +32,7 @@ This tutorial assumes that you have already created a Scalar book that includes 
 
 
 ### This tool is great for:
-* Dipoing you toes in CSS, Javascript, and web design customizations
+* Dipping your toes in CSS, Javascript, and web design customizations
 ### This tool is not great for:
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).

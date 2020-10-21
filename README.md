@@ -37,7 +37,32 @@ This tutorial assumes that you have already created a Scalar book that includes 
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
 
+**Our StoryMapJS tutorial is located here: [StoryMapJS.md](https://github.com/dhc-barnard/tutorials/blob/master/StoryMapJS.md)**
 
+### This tool is great for:
+* Telling stories that have a spatial component
+* Providing an in-depth look at any 2D visual object (work of art, diagram, historical or fictional maps)
+* Quick, simple digital projects that stand on their own, or that can be included as part of a larger project
+### This tool is not great for:
+* Combining quantitative data with mapping
+* Making extremely customized visuals
+* Collaborating with multiple people on one StoryMap (particularly if you're not in the same physical space)
+
+# TimelineJS
+## Introduction to the tool:
+
+TimelineJS is a free, open-source tool that allows you to make media-rich, chronological timelines. It can be helpful for illuminating cause and effect, putting stories into historical context, highlighting changes over a period of time and understanding the impact of time on narratives.
+
+**Our TimelineJS tutorial is located here: [TimelineJS.md](https://github.com/dhc-barnard/tutorials/blob/master/TimelineJS.md)**
+
+### This tool is great for:
+* Illuminating the chronological order of events to tell a clear story
+* Visualizing how something changes over a period of time
+* Smaller digital projects that stand on their own, or that can be included as part of a larger project
+### This tool is not great for:
+* Telling stories that don't move in a linear, chronological fashion 
+* Making extremely customized visuals
+* Showing how quantitative data changes over time (data visualization is a better tool for that)
 
 
 

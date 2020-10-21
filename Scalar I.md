@@ -11,8 +11,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 Scalar is a free, open-source tool for digital authoring and publishing that "enables users to assemble media from multiple soucres and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required" ([Scalar website](https://scalar.me/anvc/scalar/)).
 
-**Our Beginner Scalar tutorial is located here: [Scalar I.md](https://github.com/dhc-barnard/tutorials/blob/master/Scalar%20I.md)**
-
 ### This tool is great for:
 * Projects with lots of writing
 * Connecting media to text

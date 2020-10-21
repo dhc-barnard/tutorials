@@ -7,7 +7,7 @@
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## Introduction to the tool:
+## Introduction to the tool
 
 Scalar is a free, open-source tool for digital authoring and publishing that "enables users to assemble media from multiple soucres and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required" ([Scalar website](https://scalar.me/anvc/scalar/)).
 

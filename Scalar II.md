@@ -7,6 +7,18 @@
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+## Introduction to the tool
+
+Scalar is a digital publishing platform that allows creators to juxtapose media and text and create multi-linear pathways through their books or projects. Scalar has robust features out-of-the-box, but it also provides advanced features to creators who want to take their projects to the next level. We'll explore a few of those features in this tutorial.
+
+This tutorial assumes that you have already created a Scalar book that includes content, tags, and paths. If your Scalar book does not have these features, please add them before proceeding. You may want to refer back to the Introduction to Scalar I module or review [Scalar's Quickstart Guides](https://scalar.usc.edu/works/guide2/quickstarts?path=index).
+
+### This tool is great for:
+* Dipping your toes in CSS, Javascript, and web design customizations
+### This tool is not great for:
+* Simultaneous editing of the same Scalar book
+* Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
+
 # Page Versions
 Each time a page is saved, Scalar creates a new version of that page. Scalar makes a history of versions, available to all authors, along with metadata about each version and the ability to revert to any version. In Scalar:
 
@@ -229,11 +241,11 @@ In the same section where we added CSS code snippets, you can add your own CSS t
 - [Black Quotidian](http://blackquotidian.supdigital.org/bq/index)
 - [The Girl The Myth, The Fanfiction](https://taylorfaires.com/scalar/the-girl-the-myth-the-fanfiction)
 
-##  Syllabi/Assignments using this tool:
+## Syllabi/Assignments using this tool:
 - [Digital Diversity](https://hcommons.org/deposits/item/hc:20443/)
 - [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
 
-## Guides & Tutorials:
+## Other Guides & Tutorials:
 - [Customizing Look and Feel With CSS](https://scalar.usc.edu/works/guide2/customizing-look-and-feel-with-css?path=advanced-topics)
 - [Working with Widgets](https://scalar.usc.edu/works/guide2/working-with-widgets)
 - [Working with Structure](https://scalar.usc.edu/works/guide2/working-with-structure)

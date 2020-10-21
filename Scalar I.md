@@ -270,7 +270,7 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
 - [Digital Diversity](https://hcommons.org/deposits/item/hc:20443/)
 - [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
 
-## Other guides & tutorials:
+## Other Guides & Tutorials:
 - [Getting Started](https://scalar.usc.edu/works/guide2/creating-an-account?path=getting-started)
   - [Scalar's Quikstart Guides](https://scalar.usc.edu/works/guide2/quickstarts?path=index)
   - [Creating your first book](https://scalar.usc.edu/works/guide2/creating-your-first-book?path=getting-started)

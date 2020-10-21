@@ -7,8 +7,23 @@
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-# Step 1: Getting Started
-## Sign Up
+## Introduction to the tool:
+
+Scalar is a free, open-source tool for digital authoring and publishing that "enables users to assemble media from multiple soucres and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required" ([Scalar website](https://scalar.me/anvc/scalar/)).
+
+**Our Beginner Scalar tutorial is located here: [Scalar I.md](https://github.com/dhc-barnard/tutorials/blob/master/Scalar%20I.md)**
+
+### This tool is great for:
+* Projects with lots of writing
+* Connecting media to text
+* Multi-linear narratives (think choose-your-own-adventure)
+
+### This tool is not great for:
+* Storing lots of images or large images (if your project is object-centered, try [Omeka](https://www.omeka.net/) or [Wax](https://minicomp.github.io/wax/) instead)
+
+# Guided Practice
+## Step 1: Getting Started
+### Sign Up
 
 To create a Scalar account, follow these instructions:
 1. Make your way to the [Scalar Registration Page](https://scalar.usc.edu/works/system/register). 
@@ -19,7 +34,7 @@ To create a Scalar account, follow these instructions:
 ![Make new Scalar book](/images/scalar/makenewbook.png)
 6. Once you've created the new book you should be able to see it under "My Books." Click on your book title to navigate to your book. Now it's time to add content!
 
-## Front-end vs. back-end
+### Front-end vs. back-end
 
 Many tasks in Scalar are accomplished through Scalar's "front-end" or "public-facing" interface. You'll know you're on the front-end of your Scalar site when you can see a dark grey bar with icons at the top of your screen.  The back-end of the site has "Dashboard" at the top of the page. To move from the dashboard to the front-end, select "Back to book" in the top-right corner. To move from the front-end of your book to your dashboard, select the wrench icon. 
 
@@ -28,12 +43,12 @@ Front-end | Back-end
 ![front-end](/images/scalar/front-end.png) | ![back-end](/images/scalar/back-end.png)
 *The front-end of a Scalar site* | *The back-end or dashboard of a Scalar site*
 
-# Step 2: Adding Content
-## Adding Media
+## Step 2: Adding Content
+### Adding Media
 
 Scalar requires you to add media independent of adding the media to a page. This is because each piece of media on the site is also a page and Scalar doesn't treat images differently (more on Scalar's "flat ontology" in the next section). Once you get the hang of adding media, however, the process is easy!
 
-### Uploading Media
+#### Uploading Media
 
 Sometimes it's impossible or impractical to link to media, particularly if that media is at risk of disappearing. In those cases, use Scalar's upload feature. 
 
@@ -41,12 +56,12 @@ Sometimes it's impossible or impractical to link to media, particularly if that 
 <img align="right" width="40%" src="/images/scalar/uploadmedia.png" alt="Screen grab of media files upbload bar">
 2. You'll be redirected to a page where you can upload a file from your computer and input any metadata. The max  file size for uploading is 2MB.
 
-### Linking Media
+#### Linking Media
 While you certainly can upload media into Scalar, Scalar was built on the ethos that media should remain with its creators and trusted partners. Once you download an image from the web, you divorce it from its context and often its metadata. Every time we upload another copy of O'Keefe's Black Iris to the web, we add to the carbon footprint of the server that's storing it (and backing it up). 
 
 To link to media files hosted elsewhere on the web, follow the instructions above, but select "Link to media files." You will be redirected to a similar page asking for a url. 
 
-### Linking Media from Affiliated Archives
+#### Linking Media from Affiliated Archives
 Scalar has built-in tools for importing metadata and links to media files from affiliates and from some publicly available sources (e.g. Youtube). 
 
 1. Hover over the same button you used to upload images and then hover over affiliated archives. Select the Internet Archive.
@@ -58,7 +73,7 @@ Sometimes Scalar encounters difficulty accessing the affiliated and unaffiliated
 
 Because Scalar is not keeping a copy of the media file on its servers, if it is taken down by the source, the metadata will continue to be visible in your Scalar book, but the media will not.
 
-### Annotating Media
+#### Annotating Media
 
 Scalar provides some annotation tools for images, video, and audio files. Once you've uploaded a piece of media successfully you should be redirected to the media page.
 
@@ -66,7 +81,7 @@ Scalar provides some annotation tools for images, video, and audio files. Once y
 
 On this page you can edit the metadata you added previously by pressing the pencil icon on the righthand side of the page.  
 
-### Annotating Images
+#### Annotating Images
 
 To annotate an image:
 1. While on a media page, select the paperclip icon in the top right. If you can't see the paperclip, you likely aren't on a media page. 
@@ -76,7 +91,7 @@ To annotate an image:
 5. Click Done.
 6. Hover over your image to find your annotation. There will also be a new "Annotation" tab below the image that will list any annotations associated with this media object.
 
-### Annotating Videos
+#### Annotating Videos
 
 Annotating a video or audio clip is slightly different. While the beginning process is the same, once you're on the annotation editing page for a video:
 1. Click the plus sign button near the bottom of the page. 
@@ -85,7 +100,7 @@ Annotating a video or audio clip is slightly different. While the beginning proc
 4. When finished, click "Save" and then "Done" to return to the media page.
 5. There will also be a new "Annotation" tab below the video that will list any annotations associated with this media object. Select an annotation to go directly to its timestamp.
 
-## Create a page
+### Create a page
 
 Now that you've added some media, you can create a page to hold that media! To create a page:
 1. Press the plus button on the right hand side.
@@ -93,7 +108,7 @@ Now that you've added some media, you can create a page to hold that media! To c
 3. Once you're done, add a title and description and click "save."
 4. Create at least three pages.
 
-## Embedding Media and Annotations
+### Embedding Media and Annotations
 1. While on a page that you'd like to add media to, select the pencil icon to edit the page.
 2.  Above the text box, there are a number of blue icons. The two blue icons with play buttons are for inserting media links. <img align="right" width="10%" src="/images/scalar/playbuttons.png" alt="Play buttons">
 3. Click on the play button with lines around it and select media from the window that pops up. 
@@ -109,7 +124,7 @@ As you will see, this feature plops your media file exactly where you placed it 
 
 Bonus: Change the [layout](https://scalar.usc.edu/works/guide2/selecting-a-pages-default-view) of your page to see how Scalar dynamically works with media. 
 
-# Step 3: Creating Relationships with Tags
+## Step 3: Creating Relationships with Tags
 
 Scalar has a “flat ontology” which means that every kind of thing in Scalar (a media object, a page, an annotation) is equal to every other thing. 
 
@@ -133,7 +148,7 @@ Tags are useful for connecting content thematically.
   <i>Diagram by Erik Loyer, courtesy of Scalar team.</i>
 </p>
 
-## Creating tags
+### Creating tags
 1. Create a new page (on the front-end of site, click on the plus icon).
 2. Give your tag a title (consider a theme that runs throughout your course or project).
 3. Under the Relationships tab, select “Tag.”
@@ -142,7 +157,7 @@ Tags are useful for connecting content thematically.
 6. Save and view!
 7. Repeat for a couple of themes. 
 
-# Step 4. Creating Structure with Paths
+## Step 4. Creating Structure with Paths
 
 While tags are non-linear in Scalar, "paths" are linear. You create a path much like a tag, but in creating a path you create a multi-linear structure. 
 
@@ -157,7 +172,7 @@ Because of Scalar's flat ontology, any Scalar object can be a stop along the pat
 
 This structure also allows you to set up choices for readers to make. 
 
-## Planning Paths
+### Planning Paths
 
  In a Scalar book with lots of content, keeping track of your structure can feel unwieldy. We recommend doing some planning first--whether in analogue or digital form.
 
@@ -167,7 +182,7 @@ This structure also allows you to set up choices for readers to make.
 4. Think about where paths might diverge and where they might connect.
 5. When a reader reaches the end of a path, where do you want them to go next?
 
-## Creating paths in Scalar
+### Creating paths in Scalar
 
 1. Create a new page (on the front-end of site, click on the plus icon).
 2. Give your page a title.
@@ -180,7 +195,7 @@ This structure also allows you to set up choices for readers to make.
 
 BONUS: Use Scalar's [visualization tools](https://scalar.usc.edu/works/guide2/path-visualization?path=visualizations) to view your new path structure
 
-# Step 5. Make it a book!
+## Step 5. Make it a book!
 
 <p align="center">
   <img src="/images/scalar/booksplash.gif" alt="A screen record of a Scalar book">
@@ -188,7 +203,7 @@ BONUS: Use Scalar's [visualization tools](https://scalar.usc.edu/works/guide2/pa
 
  You have content now, but how do you make it look like a book? Above is an example of the Book Splash layout which will give your book a nice cover. 
 
-## Changing the title
+### Changing the title
 
 To change your title:
 1. Go to your dashboard (the wrench icon).<img src="/images/scalar/wrench.png" width="5%" alt="wrench icon"> 
@@ -196,7 +211,7 @@ To change your title:
 3. Edit your title in the title field.
 4. You can also add a subtitle and a description. 
 
-## Making a book cover
+### Making a book cover
 
 Now that you have a title, we can make that book cover. To make a snazzy book cover, you'll need a snazzy image or video. If you need to upload one, go ahead and do that now. Then: 
 
@@ -207,14 +222,14 @@ Now that you have a title, we can make that book cover. To make a snazzy book co
 5. A Book Splash will create a blank and pretty boring grey cover if you don't add an image to be a part of the cover. To do that, click the "styling" tab and then click "key image."
 6. Choose the image you want to be a part of your cover, save, and voila! You have a book cover!
 
-## Making your cover a path
+### Making your cover a path
 
 Okay so you have a book cover, but it doesn't lead anywhere. What do you do now? Remember paths? Let's make your book cover a path to lead readers to the inside.
 1. Go back to your page editor and select "relationships" and then "paths."
 2. Then choose the items it contains (at least your first content page).
 3. Save and view your new book cover!
 
-## Adding collaborators and/or students
+### Adding collaborators and/or students
 
 Students and other collaborators  must first register with Scalar in order to be added to your book. Once students have registered with Scalar, you can add them to your book by first going to the dashboard . 
 
@@ -223,7 +238,7 @@ Students and other collaborators  must first register with Scalar in order to be
 3. At the bottom left of the screen, select the "Add a user" button. 
 4. When the pop up appears, you can search for a user's full name in Scalar's database. Feel free to search for "Alicia Peaker" or "Ana Lam" from the DHC and add us to your book!
 
-## Publish your book
+### Publish your book
 
 By default, Scalar books are only visible to the creator(s) when logged in.
 
@@ -231,7 +246,7 @@ To make your book publicly available, go to the "Sharing" tab on your dashboard.
 
 For the first option "Make URL public?" use the drop-down menu to select "Yes."
 
-## Hide individual pages
+### Hide individual pages
 
 If you would like to hide individual pages, select the "Pages" tab on your dashboard. For each page you want to hide, select "Edit," then change the "Live?" option to "No." Be sure to save the line when you are finished.
 
@@ -242,7 +257,7 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
 # Reflection:
 -  How did creating multi-linear paths through your content make you think differently about your project?
 - One of the common affective experiences of reading a Scalar book is an anxiety about missing content, of not being certain you're reading everything you should. How might you confront this reaction in your reading practice and production of books?
-# Things to consider when using this tool in the classroom
+## Things to consider when using this tool in the classroom
 - You may opt to create a book and invite your students to collaborate on it, or each student (or group of students) may create their own books and share them with you. 
 - Students must register with Scalar before you can add them to your book.
 
@@ -257,7 +272,7 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
 - [Digital Diversity](https://hcommons.org/deposits/item/hc:20443/)
 - [Technologies of Literary Production](https://hcommons.org/deposits/item/hc:10329/)
 
-## Guides & tutorials:
+## Other guides & tutorials:
 - [Getting Started](https://scalar.usc.edu/works/guide2/creating-an-account?path=getting-started)
   - [Scalar's Quikstart Guides](https://scalar.usc.edu/works/guide2/quickstarts?path=index)
   - [Creating your first book](https://scalar.usc.edu/works/guide2/creating-your-first-book?path=getting-started)

@@ -5,6 +5,8 @@ Here we have tutorials for the techonologies that our center supports. These too
 ## Our Tutorials:
 * [Beginner Scalar](#scalar-i)
 * [Intermediate Scalar](#scalar-ii)
+* [StoryMapJS](#storymapjs)
+* [TimelineJS](#timelinejs)
 
 # Scalar I
 ## Introduction to the tool:
@@ -36,6 +38,11 @@ This tutorial assumes that you have already created a Scalar book that includes 
 ### This tool is not great for:
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
+
+# StoryMapJS
+## Introduction to the tool:
+
+StoryMap.js is a free, open-source tool that combines narratives with locations, letting users tell a media-rich story. It has an easy-to-use authoring tool that's robust enough for many uses, and can also be customized with code for more advanced projects.
 
 **Our StoryMapJS tutorial is located here: [StoryMapJS.md](https://github.com/dhc-barnard/tutorials/blob/master/StoryMapJS.md)**
 

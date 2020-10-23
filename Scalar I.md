@@ -19,6 +19,12 @@ Scalar is a free, open-source tool for digital authoring and publishing that "en
 ### This tool is not great for:
 * Storing lots of images or large images (if your project is object-centered, try [Omeka](https://www.omeka.net/) or [Wax](https://minicomp.github.io/wax/) instead)
 
+## Materials:
+- Internet access
+- Reliable web browser (preferably Chrome or Firefox)
+- Access to your email.
+- An account at [scalar.usc.edu](https://scalar.me/anvc/scalar/) or your own Scalar install.
+
 # Guided Practice
 ## Step 1: Getting Started
 ### Sign Up

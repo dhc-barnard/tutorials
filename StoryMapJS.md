@@ -191,9 +191,9 @@ Your StoryMap is now complete! To publish and share:
 1.  Save your StoryMap
 2.  Click "Publish Changes" button (the button may not appear until after you save your work)
 3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:
-<img align="center" width="60%" src="/images/StoryMapsJS/13-sharing.png" alt="Screenshot showing location of link at top of page">
+<img align="center" width="40%" src="/images/StoryMapsJS/13-sharing.png" alt="Screenshot showing location of link at top of page">
 4.  If you'd like to embed your StoryMap as part of a website, you can do that too - you just need to scroll down in the "share" window, and copy and paste the code that looks like this:
-<img align="center" width="60%" src="/images/StoryMapsJS/14-sharing2.png" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
+<img align="center" width="40%" src="/images/StoryMapsJS/14-sharing2.png" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
 
 # Reflection:
 - In what ways did the StoryMaps tool expand how you think about places and narratives?

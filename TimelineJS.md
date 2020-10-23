@@ -184,10 +184,13 @@ The date (or range of dates) will appear both on the top and bottom of the slide
 You can also add in a display date to override the date information that appears in the top portion of your slide. You might do this because you don't like the TimelineJS date format, or because there's some additional context you want to add. In the example below, I used "Spring 1903" as the display date to provide a bit more information to viewers.
 
 Here's how this works: this spreadsheet,
+
 <p align="center">
  <img align="center" width="60%" src="/images/TimelineJS/11-timeline.png" alt="date cells with year as '1903' and display date as 'Spring 1903'">
 </p>
+
 will generate a slide that looks like this:
+
 ![Slide showing location of display date and date](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/12-slidexampleagain.png)
 
 Now that we've seen how dates work, **add dates for your first event slide, and then fill out the text and media cells the same way we did for the title slide.**

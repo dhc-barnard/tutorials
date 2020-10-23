@@ -175,6 +175,7 @@ The date (or range of dates) will appear both on the top and bottom of the slide
 You can also add in a display date to override the date information that appears in the top portion of your slide. You might do this because you don't like the TimelineJS date format, or because there's some additional context you want to add. In the example below, I used "Spring 1903" as the display date to provide a bit more information to viewers.
 
 Here's how this works: this spreadsheet,
+
 <img align="center" width="60%" src="/images/TimelineJS/11-timeline.png" alt="date cells with year as '1903' and display date as 'Spring 1903'">
 
 will generate a slide that looks like this:
@@ -217,7 +218,7 @@ Publishing & Previewing Your Timeline
 
 Now that you've finished your spreadsheet (the most difficult part!), it's time for TimelineJS to do its magic and turn your spreadsheet into a Timeline.
 
-The easiest way to do this to **follow steps 2 through 4** on the  [Timeline website,](https://timeline.knightlab.com/)in the Make A Timeline section.  We've already done the first step, creating a spreadsheet.  Screenshots of the steps are shown below for reference:
+The easiest way to do this to **follow steps 2 through 4** on the  [Timeline website](https://timeline.knightlab.com/), in the Make A Timeline section.  We've already done the first step, creating a spreadsheet.  Screenshots of the steps are shown below for reference:
 
 <img align="center" width="70%" src="/images/TimelineJS/16-step2.png" alt="step2 from Timeline instructions - visit Timeline website for accessible version">
 

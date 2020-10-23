@@ -257,5 +257,4 @@ In the same section where we added CSS code snippets, you can add your own CSS t
 - [Working with Structure](https://scalar.usc.edu/works/guide2/working-with-structure)
 
 ## Barnard Resources:
-- [Digital Humanities Center](digitalhumanities.barnard.edu)
-~                                                           
+- [Digital Humanities Center](digitalhumanities.barnard.edu)                                                          

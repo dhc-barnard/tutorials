@@ -1,26 +1,18 @@
-StoryMaps
+# StoryMapsJS
+
+*created by Elana Altman*
+
+*updated October 22, 2020 by Miranda Jones-Davidis*
+
+<img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
 Introduction to the tool:
 -------------------------
 
 StoryMaps.js is a free, open-source tool that combines narratives with locations, letting users tell a media-rich story. It has an easy-to-use authoring tool that's robust enough for many uses, and can also be customized with code for more advanced projects.
-
-Duration: 
-----------
-
-40min - 1 hour
-
-Materials:
-----------
-
--   [https://storymap.knightlab.com](https://storymap.knightlab.com/)
--   Post-It notes or pieces of paper
-
-Learning Goals: 
-----------------
-
--   Understand how spatial information and storytelling  can come together to create a media-rich narrative
--   Create your own sample StoryMap to become comfortable with the StoryMaps.js authoring tool
--   Become aware of more advanced StoryMaps options, such as using images as maps
 
 ### The tool is great for:
 
@@ -34,8 +26,17 @@ Learning Goals:
 -   Making extremely customized visuals
 -   Collaborating with multiple people on one StoryMap (particularly if you're not in the same physical space)
 
-What exactly is a StoryMap?
----------------------------
+
+Materials:
+----------
+
+-   [https://storymap.knightlab.com](https://storymap.knightlab.com/)
+-   Post-It notes or pieces of paper
+
+
+# Guided Practice
+
+## What exactly is a StoryMap?
 
 ### StoryMap Examples
 
@@ -54,13 +55,13 @@ Each StoryMap includes a title slide, and then several location slides. The slid
 
 ![Screenshot of "A Fountain For Chicago" slide.  Labeled with the following annotations: 1-base map in background on left, 2-location marker pointing to geographic location of map, mid-left, 3-media pointing to image of fountain, top right, 4-headline, "A Fountain for Chicago," mid-right, 5-credit, "Mary Carp," far right, 6-description, long paragraph of text, bottom right](https://github.com/mirandajd/tutorials/blob/master/images/1-storymaps-location.png)
 
--   **Base Map: ***The same base map is used for all of your slides*. Many StoryMaps - such as this one - use one of a few geographic base maps provided by the StoryMaps too. However, you can also use an image as your base map, such as in [Hieronymus Bosch's "Garden of Earthly Delights." ](https://storymap.knightlab.com/examples/bosch-garden/)(In this tutorial, we won't be using an image for our base map - however, we'll be going over this in the StoryMapsJS Tech Teach In, Wednesday, May 27 at 10:30am)
--   **Location Marker: **This points to the specific location your slide is about.
--   **Headline: **The name of your slide. Might be the name of the location (as in the example) or the name of an event that took place at that location, though it can be anything that makes sense with your story!
--   **Description: **Additional text that helps tell your narrative.
--   **Media: **In the example above, the media is an image; it can also be a video, audio file, Tweet,  Instagram post, Wikipedia excerpt, Google map or Google doc. *Please note that you can only use one piece of media for each slide.*
--   **Credit: **Space to provide credit and sourcing information for your media. This can include links as well as text.
--   **Caption (not shown above): **Short text that describes your media. While not required, it's a good idea to use a caption, as it's helpful for screenreader users, those with slower internet connections , and in cases where your media may not load (for example, if your media is Tweet that is later deleted by the Twitter user).
+-   **Base Map:** *The same base map is used for all of your slides*. Many StoryMaps - such as this one - use one of a few geographic base maps provided by the StoryMaps too. However, you can also use an image as your base map, such as in [Hieronymus Bosch's "Garden of Earthly Delights." ](https://storymap.knightlab.com/examples/bosch-garden/)(In this tutorial, we won't be using an image for our base map - however, we'll be going over this in the StoryMapsJS Tech Teach In, Wednesday, May 27 at 10:30am)
+-   **Location Marker:** This points to the specific location your slide is about.
+-   **Headline:** The name of your slide. Might be the name of the location (as in the example) or the name of an event that took place at that location, though it can be anything that makes sense with your story!
+-   **Description:** Additional text that helps tell your narrative.
+-   **Media:** In the example above, the media is an image; it can also be a video, audio file, Tweet,  Instagram post, Wikipedia excerpt, Google map or Google doc. *Please note that you can only use one piece of media for each slide.*
+-   **Credit:** Space to provide credit and sourcing information for your media. This can include links as well as text.
+-   **Caption (not shown above):** Short text that describes your media. While not required, it's a good idea to use a caption, as it's helpful for screenreader users, those with slower internet connections , and in cases where your media may not load (for example, if your media is Tweet that is later deleted by the Twitter user).
 
 Except for the map and location marker, all of these components are optional. So, you can pick and choose what makes the most sense for your slide. While including all of these components can help tell a more complete, media-rich, narrative, there may be times where certain components don't make sense for the story you're telling.
 
@@ -170,17 +171,17 @@ There are four main aspects of your StoryMap's visual style that you can change 
 -   Background colors/images
 -   Location markers
 
-The *base map *and *fonts *must be the same for the entire StoryMap, while the *background color/image*s and *location markers* can be different for each slide. Here's how you change each one:
+The *base map* and *fonts* must be the same for the entire StoryMap, while the *background color/images* and *location markers* can be different for each slide. Here's how you change each one:
 
 ![Showing locations of options button, background options button and marker options button](https://github.com/mirandajd/tutorials/blob/master/images/11-Screen%20Shot%202020-05-19%20at%2011.05.48%20PM.png)
 
-**Base Map: **Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. The custom, MapBox or Gigapixel options are for people who have created their own maps or images - which we didn't do in this tutorial. Click "close" to see your changes.  
+**Base Map:** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. The custom, MapBox or Gigapixel options are for people who have created their own maps or images - which we didn't do in this tutorial. Click "close" to see your changes.  
 
-**Fonts: **Like the *base map*, you can change the *fonts *from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
+**Fonts:** Like the *base map*, you can change the *fonts *from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
 
-**Background Color/Images: **To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color  Also, be sure to check that your text is readable on your new background!
+**Background Color/Images:** To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color  Also, be sure to check that your text is readable on your new background!
 
-**Location Markers: **To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well. 
+**Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well. 
 
 Sharing Your StoryMap
 ---------------------
@@ -189,16 +190,36 @@ Your StoryMap is now complete! To publish and share:
 
 1.  Save your StoryMap
 2.  Click "Publish Changes" button (the button may not appear until after you save your work)
-3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:![Screenshot showing location of link at top of page](https://github.com/mirandajd/tutorials/blob/master/images/13-sharing.png)
+3.  Click "Share" on the top-right corner of the window. Copy the link that appears at the top, as shown:
+<img align="center" width="60%" src="/images/StoryMapsJS/13-sharing.png" alt="Screenshot showing location of link at top of page">
 4.  If you'd like to embed your StoryMap as part of a website, you can do that too - you just need to scroll down in the "share" window, and copy and paste the code that looks like this:
+<img align="center" width="60%" src="/images/StoryMapsJS/14-sharing2.png" alt="Screenshot highlighting code to copy and paste for a website, in the 'embed' field">
 
-![screenshot highlighting code to copy and past for a website, in the "embed" field](https://github.com/mirandajd/tutorials/blob/master/images/14-sharing2.png)
+# Reflection:
+- In what ways did the StoryMaps tool expand how you think about places and narratives?
+- In what ways were you constrained by the StoryMaps tool?
+- How might this tool help your students "think digitally" about your course content?
 
-Guides & tutorials:
--------------------
+# Resources:
 
+## Examples of successful projects:
+In addition to the examples included in the guided practice section, you can find more in the [StoryMapsJS project gallery](https://storymap.knightlab.com/#examples).
+
+## Syllabi/Assignments using this tool:
+- Golden Age of Versailles (Barnard, Spring 2020):
+   - [Course Syllabus](https://courseworks2.columbia.edu/files/7880650)
+   - [Digital Lab Outline](https://courseworks2.columbia.edu/courses/110254/external_tools/retrieve?display=borderless&url=https%3A%2F%2Fgoogle-drive-lti-iad-prod.instructure.com%2Flti%2Fcontent-view%2Frce%2F52085226)
+- [Transatlantic Slave Trade](https://www.macalester.edu/news/2016/02/slave-trade-history/) (Macalester, 2016)
+
+
+## Other Guides & Tutorials:
 -   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/)For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
 -   [StoryMapJS for Images:](https://storymap.knightlab.com/gigapixel/) How to use an image as your base map
 -   [QuickStart Guide to StoryMapsJS:](https://mcgrawect.princeton.edu/guides/KnightLab-StoryMaps.pdf) From Princeton's McGraw Center for Teaching & Learning
 -   [Scholarly Smackdown: StoryMapJS vs. Story Maps:](https://publish.illinois.edu/commonsknowledge/2017/03/02/scholarly-smackdown-storymap-js-vs-story-maps/) Comparing two commonly used tools for telling location-based narratives
+
+## Barnard Resources:
+- Please feel free to reach out to [IMATS](https://imats.barnard.edu/) or the [DHC](https://digitalhumanities.barnard.edu/) with any StoryMapsJS questions!
+- [FAQs from Barnard faculty and students](https://docs.google.com/document/d/1FtuoyRJs7v89dBxZCyTUwzn55SsCsso8H9sil_iMPAo/edit?usp=sharing)
+
 

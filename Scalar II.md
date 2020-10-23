@@ -19,6 +19,12 @@ This tutorial assumes that you have already created a Scalar book that includes 
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
 
+## Materials:
+- An account at [scalar.usc.edu](https://scalar.me/anvc/) or your own Scalar install.
+- Internet access
+- Reliable web browser (preferably Chrome or Firefox)
+
+
 # Page Versions
 Each time a page is saved, Scalar creates a new version of that page. Scalar makes a history of versions, available to all authors, along with metadata about each version and the ability to revert to any version. In Scalar:
 

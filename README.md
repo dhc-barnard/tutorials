@@ -12,7 +12,7 @@ This tutorial assumes that you have already created a Scalar book with content a
 
 ## [StoryMapJS](https://github.com/dhc-barnard/tutorials/blob/master/StoryMapJS.md)
 
-StoryMap.js is a free, open-source tool that allows users to produce media-rich stories by combining narrative and location.
+StoryMapJS is a free, open-source tool that allows users to produce media-rich stories by combining narrative and location.
 
 ## [TimelineJS](https://github.com/dhc-barnard/tutorials/blob/master/TimelineJS.md)
 

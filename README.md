@@ -18,7 +18,9 @@ StoryMapJS is a free, open-source tool that allows users to produce media-rich s
 
 TimelineJS is a free, open-source tool that allows you to make media-rich, chronological timelines. 
 
+## [WordPress Basics](https://github.com/dhc-barnard/tutorials/blob/master/WordPress%20Basics.md)
 
+This tutorial goes over the basic steps of creating a WordPress post.
 
 
 

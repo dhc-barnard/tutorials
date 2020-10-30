@@ -11,21 +11,37 @@ WordPress is a free and open source content management system. More than 30% of 
 
 # Guided Practice
 ## Step 1: Getting Started
+
+<img align="right" width="350" src="/images/wordpress/1-login.png" alt="Log In page for WordPress course website">
+
 ### Log In
 
 Now, to access the content management side of your course website, visit your domain/homepage’s url followed by `/wp-admin.` You will land on this login page.
 
 For login information, you should have received a new user invitation from the wordpress website (e.g. `wordpress@websitename.com`). After resetting your password you will be able to login to the course website with your email address and password.
 
+</br>
+</br>
+</br>
+
 ### Back-End vs. Front-End
 
 After logging in through `/wp-admin`, you will land on the back-end’s administration dashboard which should look similar to this:
 
-*At the info bar across the top you will see your website name (links to site) and your user name (links to profile).*
+<p align="center">
+  <img src="/images/wordpress/2-backend.png" width="700" alt="Back-end Admin Dashboard of WordPress">
+</p>
+
+<p align="center">
+<i>At the info bar across the top you will see your website name (links to site) and your user name (links to profile).</i>
+</p>
 
 The back-end page has a dashboard displaying a summary of the activity and content of your website. The sidebar on the left allows you to produce and manage content. Clicking the website title in the upper right corner allows you to switch to the front-end of the website which appears as so:
 
-*This is the front end of the website. Here you can see the website display and add content using the “+ New” menu tab on the top bar.*
+<p align="center">
+  <img src="/images/wordpress/3-frontend.png" alt="Front-end Admin Dashboard of WordPress">
+  <i>This is the front end of the website. Here you can see the website display and add content using the “+ New” menu tab on the top bar.</i>
+</p>
 
 Many prefer to work through the front-end of WordPress. Though the back-end of WordPress offers many tools and setting controls, with the front-end you can focus more readily on content creation.
 
@@ -38,22 +54,45 @@ One of the most popular functions of WordPress is its posts, which are very simi
 
 To create a post through the front-end you can simply select the “+ New” menu tab on the top bar. To create a post through the back-end, hover over the “Posts” button on the sidebar and select “Add New.”
 
-*Create a post: Front-end vs. Back-end*
+<table align="center"><tr>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img src="/images/wordpress/4-postsbackend.png" alt="create a post back-end" width="250">
+    <br>
+    <em>Create a post via Back-end</em>
+  </p> 
+</td>
+<td> 
+  <p align="center">
+    <img alt="Routing" src="/images/wordpress/5-postsfrontend.png" alt="create a post front-end" width="315">
+    <br>
+    <em>Create a post via Front-end</em>
+  </p> 
+</td>
+</tr></table>
 
 After initiating a new post, you are taken to WordPress’ block editor. This editor helps you create and manage text and media content. For posts, the block editor consists of sections for your posts’ title and content (text, image, video, headers, etc.). You can add content such as text by clicking the “+” sign buttons either in the topbar or in the block editor.
 
-*WordPress visual block editor to create a post.*
+
+<p align="center">
+  <img src="/images/wordpress/6-blockeditor.png" width="700" alt="Display of WordPress visual block editor">
+  <i>WordPress visual block editor to create a post.</i>
+</p>
 
 You can also switch from the visual editor to an HTML editor by clicking the vertical ellipsis symbol on the upper right corner of your display. With the HTML editor you can edit the HTML of the post.
 
-*If you are comfortable writing in HTML, you can further customize your post with the WordPress code editor. The code editor doesn’t render the website style.*
+<p align="center">
+  <img src="/images/wordpress/7-blockeditor.png" width="700" alt="Display of WordPress code editor">
+  <i>If you are comfortable writing in HTML, you can further customize your post with the WordPress code editor. The code editor doesn’t render the website style.</i>
+</p>
 
 ### Adding Media
+<img align="right" width="350" src="/images/wordpress/11-addmedia.png" alt="Add media tab of WordPress Post Block Editor">
 #### Images
 
-When adding images you have the option to upload an image, select an image from the media library, or insert an image URL. Images uploaded will automatically be added to the media library. However, when uploading images found from the internet, it is important to note that uploading a copy of an image from the internet disconnects the image from its original context and metadata. In addition, uploading a copy of an image adds to the carbon footprint of the server storing it.
+You can add a variety of content with the block editor including images, slideshows, audio, videos, etc.
 
-*You can add a variety of content with the block editor including images, slideshows, audio, videos, etc.*
+When adding images you have the option to upload an image, select an image from the media library, or insert an image URL. Images uploaded will automatically be added to the media library. However, when uploading images found from the internet, it is important to note that uploading a copy of an image from the internet disconnects the image from its original context and metadata. In addition, uploading a copy of an image adds to the carbon footprint of the server storing it.
 
 When adding an image to the site, it is good practice to add alt text. In the alt text you should describe the function of the image to increase the accessibility of your content. The alt text will appear in the case that the image is not able to load and helps screen-reading tools that describe the image to visually impaired users.
 

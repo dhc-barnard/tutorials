@@ -29,7 +29,7 @@ For login information, you should have received a new user invitation from the w
 After logging in through `/wp-admin`, you will land on the back-end’s administration dashboard which should look similar to this:
 
 <p align="center">
-  <img src="/images/wordpress/2-backend.png" width="700" alt="Back-end Admin Dashboard of WordPress">
+  <img src="/images/wordpress/2-backend.png" width="600" alt="Back-end Admin Dashboard of WordPress">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ After logging in through `/wp-admin`, you will land on the back-end’s administ
 The back-end page has a dashboard displaying a summary of the activity and content of your website. The sidebar on the left allows you to produce and manage content. Clicking the website title in the upper right corner allows you to switch to the front-end of the website which appears as so:
 
 <p align="center">
-  <img src="/images/wordpress/3-frontend.png" width="700" alt="Front-end Admin Dashboard of WordPress">
+  <img src="/images/wordpress/3-frontend.png" width="600" alt="Front-end Admin Dashboard of WordPress">
   </br>
   <i>This is the front end of the website. Here you can see the website display and add content using the “+ New” menu tab on the top bar.</i>
 </p>
@@ -76,18 +76,18 @@ After initiating a new post, you are taken to WordPress’ block editor. This ed
 
 
 <p align="center">
-  <img src="/images/wordpress/6-blockeditor.png" width="700" alt="Display of WordPress visual block editor">
+  <img src="/images/wordpress/6-blockeditor.png" width="600" alt="Display of WordPress visual block editor">
   </br><i>WordPress visual block editor to create a post.</i>
 </p>
 
 You can also switch from the visual editor to an HTML editor by clicking the vertical ellipsis symbol on the upper right corner of your display. With the HTML editor you can edit the HTML of the post.
 
 <p align="center">
-  <img src="/images/wordpress/7-blockeditor.png" width="700" alt="Display of WordPress code editor">
+  <img src="/images/wordpress/7-blockeditor.png" width="600" alt="Display of WordPress code editor">
   </br><i>If you are comfortable writing in HTML, you can further customize your post with the WordPress code editor. The code editor doesn’t render the website style.</i>
 </p>
 
-<img align="right" width="300" src="/images/wordpress/11-addmedia.png" alt="Add media tab of WordPress Post Block Editor">
+<img align="right" width="200" src="/images/wordpress/11-addmedia.png" alt="Add media tab of WordPress Post Block Editor">
 
 ### Adding Media
 #### Images
@@ -100,7 +100,7 @@ When adding an image to the site, it is good practice to add alt text. In the al
 
 </br>
 <p align="center">
-  <img src="/images/wordpress/9-alttext.png" width="700" alt="Display of how to add alt text for images">
+  <img src="/images/wordpress/9-alttext.png" width="600" alt="Display of how to add alt text for images">
   </br><i>The alt text can be added through the image settings that pop up as a sidebar when you add an image to your post.</i>
 </p>
 
@@ -127,7 +127,7 @@ You can toggle the document settings by selecting the gear button at the upper r
 Categories and Tags are useful ways to organize posts. Categories are useful for organizing by broader themes or genres, such as books, films, etc. Tags speak more specifically to a post and are more useful in highlighting keywords and more detailed themes featured in posts, such as drama, horror, etc.
 
 <p align="center">
-  <img src="/images/wordpress/10-tags.png" width="700" alt="Display of how to add tags on post">
+  <img src="/images/wordpress/10-tags.png" width="600" alt="Display of how to add tags on post">
   </br><i>The alt text can be added through the image settings that pop up as a sidebar when you add an image to your post.</i>
 </p>
 *As an author you can create new tags in the document settings sidebar toggled by the gears on the top bar. You can also select which category you want your post to fall under.*

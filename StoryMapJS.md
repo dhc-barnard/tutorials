@@ -177,9 +177,9 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 **Base Map:** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. The custom, MapBox or Gigapixel options are for people who have created their own maps or images - which we didn't do in this tutorial. Click "close" to see your changes.  
 
-**Fonts:** Like the *base map*, you can change the *fonts *from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
+**Fonts:** Like the *base map*, you can change the *fonts* from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
 
-**Background Color/Images:** To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color  Also, be sure to check that your text is readable on your new background!
+**Background Color/Images:** To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color. Also, be sure to check that your text is readable on your new background in order for the slide to be as accessible as possible! Check out [this link](https://www.w3.org/WAI/perspective-videos/contrast/) for more on how to choose colors with contrast. 
 
 **Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well. 
 
@@ -202,15 +202,22 @@ Your StoryMap is now complete! To publish and share:
 # Reflection:
 - In what ways did the StoryMap tool expand how you think about places and narratives?
 - In what ways were you constrained by the StoryMap tool?
-- How might this tool help your students "think digitally" about your course content?
+- How did this tool help you think digitally about your course content?
 
 # Resources:
 
 ## Examples of successful projects:
 In addition to the examples included in the guided practice section, you can find more in the [StoryMapJS project gallery](https://storymap.knightlab.com/#examples).
 
+## Examples of assignments and projects at Barnard
+-   Golden Age of Versailles (Barnard, Spring 2020):
+    -   [Course Syllabus](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
+    -   [Digital Lab Outline](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
+-   [Transatlantic Slave Trade](https://www.macalester.edu/news/2016/02/slave-trade-history/) (Macalester, 2016)
+- [Radio Inmigrante](https://storymap.knightlab.com/edit/?id=radio-inmigrante) - in progress but will be published at the end of the fall semester!
+
 ## Guides & Tutorials:
--   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/)For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
+-   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further
 -   [StoryMapJS for Images:](https://storymap.knightlab.com/gigapixel/) How to use an image as your base map
 -   [QuickStart Guide to StoryMapJS:](https://mcgrawect.princeton.edu/guides/KnightLab-StoryMaps.pdf) From Princeton's McGraw Center for Teaching & Learning
 -   [Scholarly Smackdown: StoryMapJS vs. Story Maps:](https://publish.illinois.edu/commonsknowledge/2017/03/02/scholarly-smackdown-storymap-js-vs-story-maps/) Comparing two commonly used tools for telling location-based narratives

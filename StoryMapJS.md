@@ -208,8 +208,6 @@ Your StoryMap is now complete! To publish and share:
 
 ## Examples of successful projects:
 In addition to the examples included in the guided practice section, you can find more in the [StoryMapJS project gallery](https://storymap.knightlab.com/#examples).
-
-## Examples of assignments and projects at Barnard
 -   Golden Age of Versailles (Barnard, Spring 2020):
     -   [Course Syllabus](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
     -   [Digital Lab Outline](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.

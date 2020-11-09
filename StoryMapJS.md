@@ -212,7 +212,7 @@ In addition to the examples included in the guided practice section, you can fin
     -   [Course Syllabus](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
     -   [Digital Lab Outline](https://courseworks2.columbia.edu/files/7880650) - available with Barnard login.
 -   [Transatlantic Slave Trade](https://www.macalester.edu/news/2016/02/slave-trade-history/) (Macalester, 2016)
-- [Radio Inmigrante](https://storymap.knightlab.com/edit/?id=radio-inmigrante) - in progress but will be published at the end of the fall semester!
+- [Radio Inmigrante](https://storymap.knightlab.com/edit/?id=radio-inmigrante) (Barnard) - in progress but will be published at the end of the fall semester!
 
 ## Guides & Tutorials:
 -   [StoryMapJS JSON Tutorial:](https://storymap.knightlab.com/advanced/) For those who are willing to do a little coding, this tutorial helps you customize your map a bit further

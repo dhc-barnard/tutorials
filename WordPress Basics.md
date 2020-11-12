@@ -1,6 +1,8 @@
 # WordPress Basics
 *created by Ana Lam*
 
+A video tutorial version of this guide is available on the DHC's [Vimeo](https://vimeo.com/478548461).
+
 ## Introduction to the tool
 
 WordPress is a free and open source content management system. More than 30% of the top 10 million websites use WordPress. Though it started as a simple blog posting site, WordPress now offers various widgets, plugins, and themes for website creation.

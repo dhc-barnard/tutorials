@@ -1,7 +1,7 @@
 # WordPress Basics
 *created by Ana Lam*
 
-A video version of this guide is available on the DHC's [Vimeo](https://vimeo.com/478548461).
+You can also watch the [video version](https://vimeo.com/478548461) of this guide.
 
 ## Introduction to the tool
 

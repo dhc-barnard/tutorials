@@ -144,3 +144,6 @@ Here are comprehensive guides and documentation on using WordPress:
 - [WordPress.org Documentation](https://wordpress.org/support/)
 - [Harvard Law School WordPress Student User Guide](https://hls.harvard.edu/dept/dos/student-orgs/wordpress-student-user-guide/)
 - [Beginner’s Guide for WordPress: How to Add a New Post Guide](https://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/)
+
+# Barnard Resources:
+- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) for additional help! 

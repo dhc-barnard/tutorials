@@ -221,7 +221,7 @@ In addition to the examples included in the guided practice section, you can fin
 -   [Scholarly Smackdown: StoryMapJS vs. Story Maps:](https://publish.illinois.edu/commonsknowledge/2017/03/02/scholarly-smackdown-storymap-js-vs-story-maps/) Comparing two commonly used tools for telling location-based narratives
 
 ## Barnard Resources:
-- Please feel free to reach out to [IMATS](https://imats.barnard.edu/) or the [DHC](https://digitalhumanities.barnard.edu/) with any StoryMapJS questions!
+- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS](https://imats.barnard.edu/) for additional help! 
 - [FAQs from Barnard faculty and students](https://docs.google.com/document/d/1FtuoyRJs7v89dBxZCyTUwzn55SsCsso8H9sil_iMPAo/edit?usp=sharing)
 
 

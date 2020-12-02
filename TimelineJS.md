@@ -264,4 +264,4 @@ In addition to the examples shown in the Guided Practice section:
 - [TimelineJS Documentation & Help](https://timeline.knightlab.com/docs/index.html): Includes guides for more advanced features, such as further customizing the look and feel of your Timeline using code
 
 ## Barnard Resources:
-- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS]((https://imats.barnard.edu/) for additional help! 
+- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS](https://imats.barnard.edu/) for additional help! 

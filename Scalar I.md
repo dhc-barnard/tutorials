@@ -292,7 +292,7 @@ If you would like to hide individual pages, select the "Pages" tab on your dashb
   - [Book Splash Layout](https://scalar.usc.edu/works/guide2/book-splash-layout?path=selecting-a-pages-default-view)
 
 ## Barnard resources:
-- [Digital Humanities Center](http://digitalhumanities.barnard.edu)
+- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS]((https://imats.barnard.edu/) for additional help! 
 
 
 

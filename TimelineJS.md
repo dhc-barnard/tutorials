@@ -261,7 +261,7 @@ A full list of the examples used in this tutorial (as well as some other project
 - [TimelineJS Examples Gallery](https://timeline.knightlab.com/#examples)
 - [Holocaust Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZUmudkku1flT4GeXdCAEs9TnVpVVSzYTqHPUzsVkuZA&font=Default&lang=en&timenav_position=top&initial_z)
 
-## Syllabi/Assignment using this tool:
+## Syllabi/Assignments using this tool:
 - [Gender, Sexuality and Space](https://commons.trincoll.edu/amst-gss/) (Trinity College)
 - [View From Ginling](https://mct.barnard.edu/home/about) (Barnard College, Spring 2018)
 

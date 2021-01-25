@@ -44,7 +44,7 @@ To get a sense of the structure of a TimelineJS,  take a look at the examples be
 
 -   [The View From Ginling](https://mct.barnard.edu/home/timeline)
 -   [Columbia University and the Slavery Timeline](https://slaveryexhibits.ctl.columbia.edu/timeline-narrative)
--   [Taxi Driver Scene Analysis; Shot by Shot)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1B6r1s4HiDH3wRS59jtW-U1juyD351QqffC7u5xjaxP4&font=Default&lang=en&initial_zoom=2&height=750)
+-   [Taxi Driver Scene Analysis; Shot by Shot](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1B6r1s4HiDH3wRS59jtW-U1juyD351QqffC7u5xjaxP4&font=Default&lang=en&initial_zoom=2&height=750)
 
 ### TimelineJS Components
 

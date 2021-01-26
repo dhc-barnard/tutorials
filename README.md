@@ -22,6 +22,8 @@ TimelineJS is a free, open-source tool that allows you to make media-rich, chron
 
 This tutorial goes over the basic steps of creating a WordPress post.
 
+## [Twine](https://github.com/dhc-barnard/tutorials/blob/master/Twine.md)
 
+Twine is an open-source tool for telling "interactive, nonlinear stories" online.
 
 

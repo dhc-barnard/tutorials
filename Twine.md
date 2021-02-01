@@ -72,29 +72,28 @@ Once opening the passage, you can edit its name, tags, and contents. To change 
 
 If you are just learning how to use twine, we suggest adding the following text: 
  > As soon as the hatch of your ship, the Coriolis, opens, you see the creatures swarming around you. There are many of them, more than you can easily count, and they are all continuously in motion. 
-We will build on this content later. 
+We will build on this content later. When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
  
 <p align="center">
   <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
 </p>
 
-Close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
-
 ### Step 4 - Playing a Story
 
 Now that you've added some text to your story, play your story to see how it looks!
 
-Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story.
+Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser.
 
-![Story Menu](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png)
+<p align="left">
+  <img align="left" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen">
+</p>
 
-Click on the "Play" button in the bottom right-hand corner of the screen.  
-
-![Play Button](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/9-play%20button.png)
-
-Your story will open as an HTML file in your web browser.
-
-![Story in new tab](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png)
+<p align="right">
+  <img align="right" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/9-play%20button.png" alt="play button on the right side of the story menu">
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab">
+</p>
 
 ### Step 5 - Connecting Passages
 
@@ -125,10 +124,9 @@ Return to the Passage View and double-click the second passage you made. If you'
 
 Suggested text: 
  > This sure is a strange planet! It can't possibly be Earth. I must have gotten mixed up on my way here.
+When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
  
 ![Editing text again](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/15-%20text%203.png)
-
-Close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
 
 ### Step 8 - Finish and Save your Story
 

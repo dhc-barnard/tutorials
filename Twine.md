@@ -119,7 +119,9 @@ Click on the "Play" button in the bottom right-hand corner of the screen. Your s
 
 Passage links act both as connections between stories and as hyperlinks between passages in the story. If you click on the hyperlink, a new passage will load, but the new passage will include the default text "Double-click this passage to edit it."
 
-![Click on hyperlink](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/14-%20play%202.png)
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/14-%20play%202.png" alt="click on hyperlink">
+</p>
 
 ### Step 7 - Editing your New Passage
 
@@ -128,20 +130,19 @@ Return to the Passage View and double-click the second passage you made. If you'
 Suggested text: 
  > This sure is a strange planet! It can't possibly be Earth. I must have gotten mixed up on my way here.
 When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
- 
-![Editing text again](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/15-%20text%203.png)
+
+<p align="center">
+  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/15-%20text%203.png" alt="editing text again">
+</p>
 
 ### Step 8 - Finish and Save your Story
 
-Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, lay your story again if you'd like (you know how to do this now) and then navigate back to the Passages View. Next, navigate to the menu bar and click on the pyramid next to your story title.
+Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, lay your story again if you'd like (you know how to do this now) and then navigate back to the Passages View. Next, navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 
-![Pyramid](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/16-publish%201.png)
+<img align="left" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/16-publish%201.png" alt="pyramid next to story title">
 
-Select the option to "Publish to File."
+<img align="right" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/17-publish%202.png" alt="publish to file as HTML">
 
-![Publish](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/17-publish%202.png)
-
-Your story will be saved as an HTML file that you can open in any browser to play.
 
 # Reflections:
 - How did creating multi-linear passages make you think differently about your project and its content?

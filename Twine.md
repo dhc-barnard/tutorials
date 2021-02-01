@@ -66,8 +66,8 @@ Double click the box to edit the passage.
 
 Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. 
 
-<p align="center" width="40%">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
+<p align="center">
+  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
 </p>
 
 If you are just learning how to use twine, we suggest adding the following text: 

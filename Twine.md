@@ -137,8 +137,7 @@ When you are done editing, close the passage editor by using the Escape key or b
 
 ### Step 8 - Finish and Save your Story
 
-<img align="right" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/16-publish%201.png" alt="pyramid next to story title">
-<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/17-publish%202.png" alt="publish to file as HTML">
+<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/17-publish%202.png" alt="pyramid icon and publish to file as HTML">
 
 Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, lay your story again if you'd like (you know how to do this now) and then navigate back to the Passages View. Next, navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 

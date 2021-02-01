@@ -35,13 +35,12 @@ Materials:
 ### Step 2 - Creating a New Story
 
 To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
-<p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
-</p>
+
+<img align="right" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
 
 Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Archive' *to* save your story as an html document. 
 
-![Archive Button](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/2-archive.png)
+<img align="right" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/2-archive.png" alt="Screen grab of Archive Button">
 
 If you are using the desktop version of Twine, your story will be saved to your documents folder. If you would like to archive a particular version of your story, select "Archive" to save the most recently edited version as an html document. 
 
@@ -49,7 +48,9 @@ If you are using the desktop version of Twine, your story will be saved to your 
 
 Name your story: enter a name for your story (you can change this later!)
 
-![Name Story](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/3-name%20story.png)
+<p align="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/3-name%20story.png" alt="Screen grab of naming story">
+</p>
 
 After you name your story, you will find yourself at a page that looks like a blueprint. You are now in the Passages View, where you can view all of the passages of your story. Right now you only have one passage in the middle of the screen labelled "Untitled Passage."
 

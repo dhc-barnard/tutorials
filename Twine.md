@@ -60,14 +60,14 @@ After you name your story, you will find yourself at a page that looks like a bl
 
 Double click the box to edit the passage.
 
-<p align="right">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Double click this passage to edit">
+<p align="center">
+  <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Double click this passage to edit">
 </p>
 
 Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. 
 
 <p align="center">
-  <img align="right" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
+  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
 </p>
 
 If you are just learning how to use twine, we suggest adding the following text: 
@@ -75,7 +75,7 @@ If you are just learning how to use twine, we suggest adding the following text:
 We will build on this content later. 
  
 <p align="center">
-  <img align="right" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
+  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
 </p>
 
 Close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.

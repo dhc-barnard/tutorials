@@ -97,11 +97,15 @@ Once you have closed the passage editor and are in Passage View, you can see the
 Make sure you are in the Passages View. Then, double-tap the "Untitled Passage" again. This time, add text at the bottom. You will be adding double opening and closing square brackets around your text to create a "passage link" to link connecting passages in your story. If you are using the suggested text we have provided, add the following text this time: 
  > [[Could this really be Earth!?]]
  
-![Adding more text](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/11-text%202.png)
+<p align="center">
+  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/11-text%202.png" alt="adding more text">
+</p>
 
 If you are exploring how to use Twine using your own story, add your own "next step" to your story. Remember to add two brackets around your phrase in order for your text to become a link to a new page. Close the passage editor by using the Escape key or by clicking the "x" in the upper right corner. Now that you are back in the Passages View, you can see two passages! If you click or drag either passage, you can see that the two passages are connected.  
 
-![Connected passages](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/12-%20passages%202.png)
+<p align="center">
+  <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/12-%20passages%202.png" alt="connected passages">
+</p>
 
 ### Step 6 - Playing your Story Again
 
@@ -109,7 +113,9 @@ Now that you've added some more text to your story, play your story to see how i
 
 Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser. You can see an updated version of your story that includes the new link you just created. 
 
-![Edited story in new tab](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/13%20-%20play%202.png)
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/13%20-%20play%202.png" alt="edited story in new tab">
+</p>
 
 Passage links act both as connections between stories and as hyperlinks between passages in the story. If you click on the hyperlink, a new passage will load, but the new passage will include the default text "Double-click this passage to edit it."
 

@@ -54,11 +54,15 @@ Name your story: enter a name for your story (you can change this later!)
 
 After you name your story, you will find yourself at a page that looks like a blueprint. You are now in the Passages View, where you can view all of the passages of your story. Right now you only have one passage in the middle of the screen labelled "Untitled Passage."
 
-![Passages View](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/4-passage%20view.png)
+<p align="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/4-passage%20view.png" alt="Passages view">
+</p>
 
 Double click the box to edit the passage.
 
-![Untitled Passage](https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png)
+<p align="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Untitled Passage">
+</p>
 
 Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. 
 

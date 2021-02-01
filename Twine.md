@@ -82,19 +82,12 @@ We will build on this content later. When you are done editing, close the passa
 
 Now that you've added some text to your story, play your story to see how it looks!
 
-Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. 
+Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser.
 
 <p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen">
 </p>
 
-Click on the "Play" button in the bottom right-hand corner of the screen. 
-
-<p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/9-play%20button.png" alt="play button on the right side of the story menu">
-</p>
-
-Your story will open as an HTML file in your web browser.
 <p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab">
 </p>

@@ -36,11 +36,11 @@ Materials:
 
 To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
 
-<img align="right" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
+<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
 
 Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Archive' *to* save your story as an html document. 
 
-<img align="right" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/2-archive.png" alt="Screen grab of Archive Button">
+<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/2-archive.png" alt="Screen grab of Archive Button">
 
 If you are using the desktop version of Twine, your story will be saved to your documents folder. If you would like to archive a particular version of your story, select "Archive" to save the most recently edited version as an html document. 
 

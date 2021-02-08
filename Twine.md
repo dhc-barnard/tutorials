@@ -35,7 +35,7 @@ Before you begin to work with Twine, you may want to explore possible structures
 -   20 Post-it notes or index cards
 -   Markers
 
-### Optional exercise: Thinking about Narrative Structure
+### Thinking about Narrative Structure
 
 Think of a movie or a TV episode you watched recently. Think about the protagonist in that story. What happened for the character at the beginning, middle, and end of the story? What was their goal at the beginning, what obstacles did they face, and where did they end up? What was the climax of the story? Diagram the story. Below is an example of a way to illustrate story structure.
 
@@ -162,6 +162,25 @@ When you are done editing, close the passage editor by using the Escape key or b
 Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, lay your story again if you'd like (you know how to do this now) and then navigate back to the Passages View. Next, navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 
 ## Part 3 - Personalizing Your Twine Story
+
+*Adapted from Miriam Neptune's tutorials on exploring narrative structure with Twine*
+
+In this section you will be using the CSS coding language to customize your Twine story. You will need no prior experience in CSS to do this exercise. For reference, here is some basic information from the website [w3schools.com](https://www.w3schools.com/) about CSS:
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+
+In this exercise you will learn how to do the following with Twine: 
+1) Change font, size & color
+2) Customize a specific text block
+3) Add an image
+
+### Changing font, size, and color
+1) Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
+
+<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="edit story stylesheet"> 
+
+2) 
 
 # Reflections:
 - What impact does branching narrative have on a story, and you as the reader? What are the challenges of writing in this way?

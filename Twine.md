@@ -24,7 +24,7 @@ Twine is an open-source tool for telling "interactive, nonlinear stories" online
 - Internet access
 - Reliable web browser (preferably Chrome or Firefox)
 
-## Part 1
+## Part 1 - Exploring Narrative Structure with Twine
 
 *Adapted from Miriam Neptune's tutorials on exploring narrative structure with Twine*
 
@@ -44,6 +44,8 @@ Think of a movie or a TV episode you watched recently. Think about the protagoni
 </p>
 
 You can create a line and add some points, or list each plot point on a post it and try to arrange them in a shape indicating rising action, climax, falling action. Or maybe your story is circle, a straight line, or a non-linear experience! Twine has the capability to allow users to create branching narratives and non-linear narratives, and you can explore these narrative types as you learn more about the tool. 
+
+## Part 2 - Twine Basics
 
 ### Step 1 - Getting Started
 
@@ -159,8 +161,10 @@ When you are done editing, close the passage editor by using the Escape key or b
 
 Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, lay your story again if you'd like (you know how to do this now) and then navigate back to the Passages View. Next, navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 
+## Part 3 - Personalizing Your Twine Story
 
 # Reflections:
+- What impact does branching narrative have on a story, and you as the reader? What are the challenges of writing in this way?
 - How did creating multi-linear passages make you think differently about your project and its content?
 
 # Resources:

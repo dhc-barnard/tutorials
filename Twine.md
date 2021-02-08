@@ -1,12 +1,10 @@
-Twine
-=====
+# Twine
 
 Created by Miranda Jones-Davidis
 
 Updated January 15, 2021 by Miranda Jones-Davidis
 
-Introduction to the tool
-------------------------
+## Introduction to the tool
 
 Twine is an open-source tool for telling "interactive, nonlinear stories" online at [twinery.org](http://twinery.org/).
 
@@ -21,15 +19,33 @@ Twine is an open-source tool for telling "interactive, nonlinear stories" online
 - Visualizing data
 - Collaborative projects (You must save and share your Twine story as an HTML file to work collaboratively)
 
-Materials:
-----------
+### Materials:
 
 - Internet access
 - Reliable web browser (preferably Chrome or Firefox)
 
+## Part 1
+
+*Adapted from Miriam Neptune's tutorials on exploring narrative structure with Twine*
+
+Before you begin to work with Twine, you may want to explore possible structures to implement in your interactive narrative. Linked here is some background reading for creating interactive narratives: ["Interactive Narrative | Play with Learning"](http://playwithlearning.com/2010/10/14/exploring-interactive-narrative-part-1-of-6/), ["Serious Interactive Fiction: Constraints, Interfaces, and Creative Writing Pedagogy](https://scholarworks.rit.edu/jcws/vol3/iss1/10/), and ["Game Design as Narrative Architecture](http://web.mit.edu/~21fms/People/henry3/games&narrative.html). 
+
+### Materials you will need:
+
+-   20 Post-it notes or index cards
+-   Markers
+
+### Optional exercise: Thinking about Narrative Structure**
+
+Think of a movie or a TV episode you watched recently. Think about the protagonist in that story. What happened for the character at the beginning, middle, and end of the story? What was their goal at the beginning, what obstacles did they face, and where did they end up? What was the climax of the story? Diagram the story. Below are examples of ways to illustrate story structure.
+
+(Photo)
+
+You can create a line and add some points, or list each plot point on a post it and try to arrange them in a shape indicating rising action, climax, falling action. Or maybe your story is circle, a straight line, or a non-linear experience! Twine has the capability to allow users to create branching narratives and non-linear narratives, and you can explore these narrative types as you learn more about the tool. 
+
 ### Step 1 - Getting Started
 
-- Go to Twinery.org. Here, you have two options for using Twine: you can download the application onto your computer where files will be saved locally in your Documents folder, or you can access the website through your web browser, where stories are saved in the browser's local storage. If you decide to download the application onto your computer, click the download link for your type of computer on the yellow sticky note on the right-hand side of the page. Follow the prompts to download. If you decide to use Twine online, click "use it online" on the yellow sticky note on the right-hand side of the page.
+- Go to [twinery.org](http://twinery.org/). Here, you have two options for using Twine: you can download the application onto your computer where files will be saved locally in your Documents folder, or you can access the website through your web browser, where stories are saved in the browser's local storage. If you decide to download the application onto your computer, click the download link for your type of computer on the yellow sticky note on the right-hand side of the page. Follow the prompts to download. If you decide to use Twine online, click "use it online" on the yellow sticky note on the right-hand side of the page.
 - Important things to remember when using Twine online are that clearing sessions and cookies in a browser may also clear the storage of Twine. If you clear your browser's data, you'll lose your work! Also, you need to use the same browser every time you use Twine because local storage is browser specific. Finally, anyone who uses your browser can see and make changes to your work if they access the Twine website. 
 
 ### Step 2 - Creating a New Story

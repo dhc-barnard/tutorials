@@ -1,8 +1,8 @@
 # Twine
 
-Created by Miranda Jones-Davidis
+Created by Miranda Jones-Davidis and Miriam Neptune
 
-Updated January 15, 2021 by Miranda Jones-Davidis
+Updated February 8, 2021 by Miranda Jones-Davidis
 
 ## Introduction to the tool
 
@@ -35,11 +35,13 @@ Before you begin to work with Twine, you may want to explore possible structures
 -   20 Post-it notes or index cards
 -   Markers
 
-### Optional exercise: Thinking about Narrative Structure**
+### Optional exercise: Thinking about Narrative Structure
 
 Think of a movie or a TV episode you watched recently. Think about the protagonist in that story. What happened for the character at the beginning, middle, and end of the story? What was their goal at the beginning, what obstacles did they face, and where did they end up? What was the climax of the story? Diagram the story. Below are examples of ways to illustrate story structure.
 
-(Photo)
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/narrative%20structure%201.jpg" alt="example of narrative structure in which a character has a goal and goes through a series of events where they come home changed">
+</p>
 
 You can create a line and add some points, or list each plot point on a post it and try to arrange them in a shape indicating rising action, climax, falling action. Or maybe your story is circle, a straight line, or a non-linear experience! Twine has the capability to allow users to create branching narratives and non-linear narratives, and you can explore these narrative types as you learn more about the tool. 
 

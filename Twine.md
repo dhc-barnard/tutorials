@@ -37,7 +37,7 @@ Before you begin to work with Twine, you may want to explore possible structures
 
 ### Optional exercise: Thinking about Narrative Structure
 
-Think of a movie or a TV episode you watched recently. Think about the protagonist in that story. What happened for the character at the beginning, middle, and end of the story? What was their goal at the beginning, what obstacles did they face, and where did they end up? What was the climax of the story? Diagram the story. Below are examples of ways to illustrate story structure.
+Think of a movie or a TV episode you watched recently. Think about the protagonist in that story. What happened for the character at the beginning, middle, and end of the story? What was their goal at the beginning, what obstacles did they face, and where did they end up? What was the climax of the story? Diagram the story. Below is an example of a way to illustrate story structure.
 
 <p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/narrative%20structure%201.jpg" alt="example of narrative structure in which a character has a goal and goes through a series of events where they come home changed">

@@ -195,8 +195,8 @@ Padding - Distance of text from border (recommendation choose between 1%-15%)
 Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
 <img align="left" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="edit story stylesheet"> 
-<img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before"> 
-<img align="right" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after"> 
+<img align="center" width="35%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before"> 
+<img align="right" width="35%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after"> 
 
 
 Copy and paste the CSS code below into your stylesheet. Change background-color to any other color e.g. from “White” to “Red”

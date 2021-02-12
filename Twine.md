@@ -194,8 +194,6 @@ Padding - Distance of text from border (recommendation choose between 1%-15%)
 
 Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
-  <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/12-%20passages%202.png" alt="connected passages">
-
 <div class="row">
   <div class="column">
     <img width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet">

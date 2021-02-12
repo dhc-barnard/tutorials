@@ -165,38 +165,113 @@ Keep adding text to your passages. Add more to your story, create new hyperlinks
 
 *Adapted from Miriam Neptune's tutorials on exploring narrative structure with Twine*
 
+In this exercise you will learn how to do the following with Twine: 
+1) Change your story's background color
+2) Change font type, font size & font color
+3) Customize a specific text block
+4) Add an image
+
 In this section you will be using the CSS coding language to customize your Twine story. You will need no prior experience in CSS to do this exercise. For reference, here is some basic information from the website [w3schools.com](https://www.w3schools.com/) about CSS:
 - CSS stands for Cascading Style Sheets
 - CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 - CSS saves a lot of work. It can control the layout of multiple web pages all at once
 
-In this exercise you will learn how to do the following with Twine: 
-1) Change font, size & color
-2) Customize a specific text block
-3) Add an image
+**Basic CSS Terms:**
+Text Align - Chose between “Left”,”Right”, & “Center
 
-### Changing font, size, and color
-1) Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
+Color - Color of text, name color e.g. Red or Hex e.g. #0635c9
+
+Font Size - Choose any font size number e.g. 18pt
+
+Font Family - Choose any web-safe font
+
+Background Color - Change the color of the individual block
+
+Padding - Distance of text from border (recommendation choose between 1%-15%)
+
+### Changing Background Color
+Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
 <img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="edit story stylesheet"> 
 
-2) Copy and paste the CSS code below into your stylesheet. Change background-color to any other color e.g. from “White” to “Red”
+Copy and paste the CSS code below into your stylesheet. Change background-color to any other color e.g. from “White” to “Red”
 
-> tw-story {
+```
+tw-story {
+background-color: White;
+}
+```
 
-> background-color: White;
+Advanced: Use a [hex number color code](https://www.w3schools.com/colors/colors_picker.asp) e.g. #ed2d2d
 
-> }
+```
+tw-story {
+background-color: #ed2d2d;
+}
+```
 
-Advanced: Use a hex number color code e.g. #ed2d2d
-> tw-story {
+To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes you made. You can always go back and change it to a different color.
 
-> background-color: #ed2d2d;
+### Changing the Font
+Open the story stylesheet. Copy and paste the CSS code below into your stylesheet. 
 
-> }
+```
+tw-passage {
+color: Blue;
+font-family: garamond;
+font-size: 100%;
+}
+```
 
-3) To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes your made. You can always go back and change it to a different color.
+Switch out the word "garamond" with any other web-safe font family. For example, you could use "Arial Black" or any other font listed at [w3schools.com](https://www.w3schools.com/cssref/css_websafe_fonts.asp).
 
+Check to see if you like the changes you made by exiting the style sheet and clicking "play."
+
+### Changing the Font Color
+You can change the color of your text by changing the color in your CSS code (shown below) to another color, e.g. from "Blue" to "Pink."  You can also change the color to a hex number color code. Once you've changed your code, check to see the changes you've made by exiting the style sheet and clicking "play."
+
+```
+tw-passage {
+color: Blue;
+font-family: garamond;
+font-size: 20pt;
+}
+```
+
+### Customizing a Specific Block of Text
+The CSS codes used in earlier parts of this tutorial will automatically apply to your whole story on Twine, so if you only want to customize a specific text block, you can use the "tag" function. 
+
+First, open a block and add a tag (e.g. "IMATS") with the "+Tag" button. Then, go back to your style sheet.
+(photo) (photo)
+
+In order to change the style of the singular block, copy and paste the CSS code below into your style sheet. 
+
+```
+tw-passage[tags~="IMATS"]{
+text-align: center;
+color: White;
+font-size: 25pt;
+font-family: Comic Sans MS;
+background-color: Pink;
+padding: 10%;
+}
+```
+
+To customize your block, replace “IMATS” in the tw-passage[tags~="IMATS"] section to the name of the tag in the block you're trying to customize. Customize the style as you wish by changing the color, font family etc. as you did in the previous sections. Now that you've added a tag name to this set of code in your stylesheet, any changes you make to this block of code will only apply to the block in your story with the matching tag name. 
+
+### Adding an Image
+First, choose an image that can be easily inserted into your Twine story. The image should have a url and either be your own image or be a copyright free image. Once you've found the image you'd like to use on Google or another website, right-click the image to "copy image address." Then, open the block you want to add your image to. Copy and paste the CSS code below into the block description (NOT the CSS style sheet). Replace the url in the code with the url you've copied. 
+
+```
+<style> 
+img {
+max-width: 100%;
+max-height 100%;
+}
+</style>
+
+<img src=https://library.barnard.edu/ sites/default/files/inline-images/BLAIS-LIB-Peets_0.jpg></span>
+```
 
 # Reflections:
 - What impact does branching narrative have on a story, and you as the reader? What are the challenges of writing in this way?

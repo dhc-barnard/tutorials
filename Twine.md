@@ -194,15 +194,17 @@ Padding - Distance of text from border (recommendation choose between 1%-15%)
 
 Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
+  <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/12-%20passages%202.png" alt="connected passages">
+
 <div class="row">
   <div class="column">
-    <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet" style="width:20%">
+    <img width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet">
   </div>
   <div class="column">
-    <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before" style="width:30%">
+    <img width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before">
   </div>
   <div class="column">
-    <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after" style="width:30%">
+    <img width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after">
   </div>
 </div>
 

@@ -177,6 +177,7 @@ In this section you will be using the CSS coding language to customize your Twin
 - CSS saves a lot of work. It can control the layout of multiple web pages all at once
 
 **Basic CSS Terms:**
+
 Text Align - Chose between “Left”,”Right”, & “Center
 
 Color - Color of text, name color e.g. Red or Hex e.g. #0635c9
@@ -190,11 +191,15 @@ Background Color - Change the color of the individual block
 Padding - Distance of text from border (recommendation choose between 1%-15%)
 
 ### Changing Background Color
+
 Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
 <img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="edit story stylesheet"> 
 
 Copy and paste the CSS code below into your stylesheet. Change background-color to any other color e.g. from “White” to “Red”
+
+<img align="left" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before"> 
+<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after"> 
 
 ```
 tw-story {
@@ -213,6 +218,7 @@ background-color: #ed2d2d;
 To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes you made. You can always go back and change it to a different color.
 
 ### Changing the Font
+
 Open the story stylesheet. Copy and paste the CSS code below into your stylesheet. 
 
 ```
@@ -228,6 +234,7 @@ Switch out the word "garamond" with any other web-safe font family. For example,
 Check to see if you like the changes you made by exiting the style sheet and clicking "play."
 
 ### Changing the Font Color
+
 You can change the color of your text by changing the color in your CSS code (shown below) to another color, e.g. from "Blue" to "Pink."  You can also change the color to a hex number color code. Once you've changed your code, check to see the changes you've made by exiting the style sheet and clicking "play."
 
 ```
@@ -239,6 +246,7 @@ font-size: 20pt;
 ```
 
 ### Customizing a Specific Block of Text
+
 The CSS codes used in earlier parts of this tutorial will automatically apply to your whole story on Twine, so if you only want to customize a specific text block, you can use the "tag" function. 
 
 First, open a block and add a tag (e.g. "IMATS") with the "+Tag" button. Then, go back to your style sheet.
@@ -260,6 +268,7 @@ padding: 10%;
 To customize your block, replace “IMATS” in the tw-passage[tags~="IMATS"] section to the name of the tag in the block you're trying to customize. Customize the style as you wish by changing the color, font family etc. as you did in the previous sections. Now that you've added a tag name to this set of code in your stylesheet, any changes you make to this block of code will only apply to the block in your story with the matching tag name. 
 
 ### Adding an Image
+
 First, choose an image that can be easily inserted into your Twine story. The image should have a url and either be your own image or be a copyright free image. Once you've found the image you'd like to use on Google or another website, right-click the image to "copy image address." Then, open the block you want to add your image to. Copy and paste the CSS code below into the block description (NOT the CSS style sheet). Replace the url in the code with the url you've copied. 
 
 ```
@@ -273,20 +282,28 @@ max-height 100%;
 <img src=https://library.barnard.edu/ sites/default/files/inline-images/BLAIS-LIB-Peets_0.jpg></span>
 ```
 
+Change the size of the image by changing the percentage of max-width and max-height. 
+
 # Reflections:
+
 - What impact does branching narrative have on a story, and you as the reader? What are the challenges of writing in this way?
 - How did creating multi-linear passages make you think differently about your project and its content?
 
 # Resources:
 
 ## Examples of Successful Projects:
+
 - [The Social Life of Data](https://sociallifeofdata.org/) - An educational experience created to allow users to explore how information is created, travels, and is contested across different media. 
 
 ## Other Guides & Tutorials:
+
 - [The Twine Cookbook](http://twinery.org/cookbook/index.html) - A collection of tips and examples of how to use Twine. Also available on [Github](https://github.com/iftechfoundation/twine-cookbook).
 - [The Interactive Fiction Community Forum](https://intfiction.org/c/authoring/twine/46) - A forum for discussions about how to use Twine.
 - [The Twine Wiki](http://twinery.org/wiki/) - A wiki containing information on the history of Twine and how to use the program. 
 - [Twine Discord](https://discord.com/invite/n5dJvPp) - A Discord channel for Twine users to discuss their work and progress.
+- [Twine Beginners Series](https://www.youtube.com/watch?v=iKFZhIHD7Xk&list) - A series of YouTube videos on how to use Twine. 
+- [W3Schools CSS Tutorials](https://www.w3schools.com/css/) - For more information on how to use CSS.
 
 ## Barnard Resources:
+
 - Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/).

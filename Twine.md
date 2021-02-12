@@ -183,12 +183,16 @@ In this exercise you will learn how to do the following with Twine:
 2) Copy and paste the CSS code below into your stylesheet. Change background-color to any other color e.g. from “White” to “Red”
 
 > tw-story {
+
 > background-color: White;
+
 > }
 
 Advanced: Use a hex number color code e.g. #ed2d2d
 > tw-story {
+
 > background-color: #ed2d2d;
+
 > }
 
 3) To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes your made. You can always go back and change it to a different color.

@@ -200,18 +200,6 @@ Open the menu on the lower left corner (e.g. mine says “demo”) and then clic
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after" width="35%" />
 </p>
 
-<div class="row">
-  <div class="column">
-    <img width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet">
-  </div>
-  <div class="column">
-    <img width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before">
-  </div>
-  <div class="column">
-    <img width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after">
-  </div>
-</div>
-
 Copy and paste the CSS code below into your stylesheet. Change background-color to any other color e.g. from “White” to “Red”
 
 ```

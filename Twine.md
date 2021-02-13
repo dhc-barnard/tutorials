@@ -317,7 +317,7 @@ max-height 100%;
 <img src=https://library.barnard.edu/ sites/default/files/inline-images/BLAIS-LIB-Peets_0.jpg></span>
 ```
 
-Change the size of the image by changing the percentage of max-width and max-height. 
+Change the size of the image by changing the percentage of max-width and max-height. Your final code and final product might end up looking similar to the images below. 
 
 <p float="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%204.png" alt="final code" width="45%">

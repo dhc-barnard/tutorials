@@ -218,7 +218,16 @@ background-color: #ed2d2d;
 
 To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes you made. You can always go back and change it to a different color.
 
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%204%20play.png" alt="play to view changes">
+</p>
+
 ### Changing the Font
+
+<p float="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="40%"/>
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%206%20after.png" alt="story page after" width="40%"/> 
+</p>
 
 Open the story stylesheet. Copy and paste the CSS code below into your stylesheet. 
 

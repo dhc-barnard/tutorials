@@ -245,8 +245,8 @@ Switch out the word "garamond" with any other web-safe font family. For example,
 Check to see if you like the changes you made by exiting the style sheet and clicking "play."
 
 <p float="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%207%20before.png" alt="font before" width="45%"/>
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="45%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%207%20before.png" alt="font before" width="45%"/>
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="45%"/> 
 </p>
 
 ### Changing the Font Color
@@ -261,8 +261,8 @@ font-size: 20pt;
 }
 ```
 <p float="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%209%20before.png" alt="font color before" width="40%"/>
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%2010%20after.png" alt="font color after" width="40%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%209%20before.png" alt="font color before" width="45%"/>
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%2010%20after.png" alt="font color after" width="45%"/> 
 </p>
 
 ### Customizing a Specific Block of Text

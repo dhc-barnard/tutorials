@@ -300,6 +300,12 @@ To customize your block, replace “IMATS” in the tw-passage[tags~="IMATS"] se
 
 First, choose an image that can be easily inserted into your Twine story. The image should have a url and either be your own image or be a copyright free image. Once you've found the image you'd like to use on Google or another website, right-click the image to "copy image address." Then, open the block you want to add your image to. Copy and paste the CSS code below into the block description (NOT the CSS style sheet). Replace the url in the code with the url you've copied. 
 
+<p float="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%201.png" alt="find image and right-click to copy address" width="30%">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%202.png" alt="open the block you want to add your image to" width="30%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%203.png" alt="add CSS" width="30%"/> 
+  </p>
+
 ```
 <style> 
 img {

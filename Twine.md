@@ -222,12 +222,13 @@ To view your changes, exit the style sheet (no save needed) and click play. Chec
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%204%20play.png" alt="play to view changes">
 </p>
 
-### Changing the Font
 
 <p float="center">
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="40%"/>
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%206%20after.png" alt="story page after" width="40%"/> 
 </p>
+
+### Changing the Font
 
 Open the story stylesheet. Copy and paste the CSS code below into your stylesheet. 
 
@@ -243,6 +244,11 @@ Switch out the word "garamond" with any other web-safe font family. For example,
 
 Check to see if you like the changes you made by exiting the style sheet and clicking "play."
 
+<p float="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%207%20before.png" alt="font before" width="40%"/>
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="40%"/> 
+</p>
+
 ### Changing the Font Color
 
 You can change the color of your text by changing the color in your CSS code (shown below) to another color, e.g. from "Blue" to "Pink."  You can also change the color to a hex number color code. Once you've changed your code, check to see the changes you've made by exiting the style sheet and clicking "play."
@@ -254,6 +260,10 @@ font-family: garamond;
 font-size: 20pt;
 }
 ```
+<p float="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%209%20before.png" alt="font color before" width="40%"/>
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%2010%20after.png" alt="font color after" width="40%"/> 
+</p>
 
 ### Customizing a Specific Block of Text
 

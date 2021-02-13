@@ -224,8 +224,8 @@ To view your changes, exit the style sheet (no save needed) and click play. Chec
 
 
 <p float="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="50%"/>
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%206%20after.png" alt="story page after" width="50%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="45%"/>
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%206%20after.png" alt="story page after" width="45%"/> 
 </p>
 
 ### Changing the Font
@@ -245,8 +245,8 @@ Switch out the word "garamond" with any other web-safe font family. For example,
 Check to see if you like the changes you made by exiting the style sheet and clicking "play."
 
 <p float="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%207%20before.png" alt="font before" width="50%"/>
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="50%"/> 
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%207%20before.png" alt="font before" width="45%"/>
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="45%"/> 
 </p>
 
 ### Changing the Font Color

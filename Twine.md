@@ -276,8 +276,9 @@ The CSS codes used in earlier parts of this tutorial will automatically apply to
 
 First, open a block and add a tag (e.g. "IMATS") with the "+Tag" button. Then, go back to your style sheet.
 
-<p align="center">
+<p float="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%203.png" alt="edit block and add tag" width="60%">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%204.png" alt="go back to your style sheet" width="45%"/> 
 </p>
 
 In order to change the style of the singular block, copy and paste the CSS code below into your style sheet. 

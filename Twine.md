@@ -196,8 +196,8 @@ Open the menu on the lower left corner (e.g. mine says “demo”) and then clic
 
 <p float="center">
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet" width="20%"/>
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before" width="40%"/> 
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after" width="40%" />
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before" width="35%"/> 
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after" width="35%" />
 </p>
 
 <div class="row">

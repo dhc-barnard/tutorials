@@ -319,6 +319,11 @@ max-height 100%;
 
 Change the size of the image by changing the percentage of max-width and max-height. 
 
+<p float="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%204.png" alt="final code" width="45%">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%205.png" alt="final product" width="45%"/> 
+</p>
+
 # Reflections:
 
 - What impact does branching narrative have on a story, and you as the reader? What are the challenges of writing in this way?

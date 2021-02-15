@@ -1,8 +1,8 @@
 # Twine
 
-Created by Miranda Jones-Davidis and Miriam Neptune
+*Created by Miranda Jones-Davidis and Miriam Neptune*
 
-Updated February 8, 2021 by Miranda Jones-Davidis
+*Updated February 8, 2021 by Miranda Jones-Davidis*
 
 ## Introduction to the tool
 
@@ -40,7 +40,7 @@ Before you begin to work with Twine, you may want to explore possible structures
 Think of a movie or a TV episode you watched recently. Think about the protagonist in that story. What happened for the character at the beginning, middle, and end of the story? What was their goal at the beginning, what obstacles did they face, and where did they end up? What was the climax of the story? Diagram the story. Below is an example of a way to illustrate story structure.
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/narrative%20structure%201.jpg" alt="example of narrative structure in which a character has a goal and goes through a series of events where they come home changed">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/narrative%20structure%201.jpg" width="75%" alt="example of narrative structure in which a character has a goal and goes through a series of events where they come home changed">
 </p>
 
 You can create a line and add some points, or list each plot point on a post it and try to arrange them in a shape indicating rising action, climax, falling action. Or maybe your story is circle, a straight line, or a non-linear experience! Twine has the capability to allow users to create branching narratives and non-linear narratives, and you can explore these narrative types as you learn more about the tool. 
@@ -49,14 +49,15 @@ You can create a line and add some points, or list each plot point on a post it 
 
 ### Step 1 - Getting Started
 
-- Go to [twinery.org](http://twinery.org/). Here, you have two options for using Twine: you can download the application onto your computer where files will be saved locally in your Documents folder, or you can access the website through your web browser, where stories are saved in the browser's local storage. If you decide to download the application onto your computer, click the download link for your type of computer on the yellow sticky note on the right-hand side of the page. Follow the prompts to download. If you decide to use Twine online, click "use it online" on the yellow sticky note on the right-hand side of the page.
-- Important things to remember when using Twine online are that clearing sessions and cookies in a browser may also clear the storage of Twine. If you clear your browser's data, you'll lose your work! Also, you need to use the same browser every time you use Twine because local storage is browser specific. Finally, anyone who uses your browser can see and make changes to your work if they access the Twine website. 
+Go to [twinery.org](http://twinery.org/). Here, you have two options for using Twine: you can download the application onto your computer where files will be saved locally in your Documents folder, or you can access the website through your web browser, where stories are saved in the browser's local storage. If you decide to download the application onto your computer, click the download link for your type of computer on the yellow sticky note on the right-hand side of the page. Follow the prompts to download. If you decide to use Twine online, click "use it online" on the yellow sticky note on the right-hand side of the page.
+
+Important things to remember when using Twine online are that clearing sessions and cookies in a browser may also clear the storage of Twine. If you clear your browser's data, you'll lose your work! Also, you need to use the same browser every time you use Twine because local storage is browser specific. Finally, anyone who uses your browser can see and make changes to your work if they access the Twine website. 
 
 ### Step 2 - Creating a New Story
 
-To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
+<img align="right" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
 
-<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
+To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
 
 Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Archive' *to* save your story as an html document. 
 
@@ -69,25 +70,25 @@ If you are using the desktop version of Twine, your story will be saved to your 
 Name your story: enter a name for your story (you can change this later!)
 
 <p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/3-name%20story.png" alt="Screen grab of naming story">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/3-name%20story.png" alt="Screen grab of naming story" width="75%">
 </p>
 
 After you name your story, you will find yourself at a page that looks like a blueprint. You are now in the Passages View, where you can view all of the passages of your story. Right now you only have one passage in the middle of the screen labelled "Untitled Passage."
 
 <p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/4-passage%20view.png" alt="Passages view">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/4-passage%20view.png" alt="Passages view" width="75%">
 </p>
 
 Double click the box to edit the passage.
 
 <p align="center">
-  <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Double click this passage to edit">
+  <img align="center" width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Double click this passage to edit">
 </p>
 
 Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. 
 
 <p align="center">
-  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
+  <img align="center" width="50%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
 </p>
 
 If you are just learning how to use twine, we suggest adding the following text: 
@@ -95,7 +96,7 @@ If you are just learning how to use twine, we suggest adding the following text:
 We will build on this content later. When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
  
 <p align="center">
-  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
+  <img align="center" width="50%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
 </p>
 
 ### Step 4 - Playing a Story
@@ -105,11 +106,11 @@ Now that you've added some text to your story, play your story to see how it loo
 Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser.
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen" width="75%">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab" width="75%">
 </p>
 
 ### Step 5 - Connecting Passages
@@ -134,13 +135,13 @@ Now that you've added some more text to your story, play your story to see how i
 Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser. You can see an updated version of your story that includes the new link you just created. 
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/13%20-%20play%202.png" alt="edited story in new tab">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/13%20-%20play%202.png" alt="edited story in new tab" width="75%">
 </p>
 
 Passage links act both as connections between stories and as hyperlinks between passages in the story. If you click on the hyperlink, a new passage will load, but the new passage will include the default text "Double-click this passage to edit it."
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/14-%20play%202.png" alt="click on hyperlink">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/14-%20play%202.png" alt="click on hyperlink" width="75%">
 </p>
 
 ### Step 7 - Editing your New Passage
@@ -194,8 +195,8 @@ Padding - Distance of text from border (recommendation choose between 1%-15%)
 
 Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
-<p float="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet" width="20%"/>
+<p align="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet" width="18.4%"/>
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%202%20before.png" alt="story style sheet before" width="35%"/> 
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%203%20after.png" alt="story style sheet after" width="35%" />
 </p>
@@ -219,12 +220,12 @@ background-color: #ed2d2d;
 To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes you made. You can always go back and change it to a different color.
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%204%20play.png" alt="play to view changes">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%204%20play.png" alt="play to view changes" width="75%">
 </p>
 
 
-<p float="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="45%"/>
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="44%"/>
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%206%20after.png" alt="story page after" width="45%"/> 
 </p>
 
@@ -244,9 +245,9 @@ Switch out the word "garamond" with any other web-safe font family. For example,
 
 Check to see if you like the changes you made by exiting the style sheet and clicking "play."
 
-<p float="center">
+<p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%207%20before.png" alt="font before" width="45%"/>
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="45%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%208%20after.png" alt="font after" width="43%"/> 
 </p>
 
 ### Changing the Font Color
@@ -260,7 +261,7 @@ font-family: garamond;
 font-size: 20pt;
 }
 ```
-<p float="center">
+<p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%209%20before.png" alt="font color before" width="45%"/>
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%2010%20after.png" alt="font color after" width="45%"/> 
 </p>
@@ -269,16 +270,16 @@ font-size: 20pt;
 
 The CSS codes used in earlier parts of this tutorial will automatically apply to your whole story on Twine, so if you only want to customize a specific text block, you can use the "tag" function. 
 
-<p float="center">
+<p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%201.png" alt="your map" width="45%"/>
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%202.png" alt="one specific block on the map" width="45%"/> 
 </p>
 
 First, open a block and add a tag (e.g. "IMATS") with the "+Tag" button. Then, go back to your style sheet.
 
-<p float="center">
+<p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%203.png" alt="edit block and add tag" width="50%">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%204.png" alt="go back to your style sheet" width="40%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%204.png" alt="go back to your style sheet" width="36%"/> 
 </p>
 
 In order to change the style of the singular block, copy and paste the CSS code below into your style sheet. 
@@ -300,10 +301,10 @@ To customize your block, replace “IMATS” in the tw-passage[tags~="IMATS"] se
 
 First, choose an image that can be easily inserted into your Twine story. The image should have a url and either be your own image or be a copyright free image. Once you've found the image you'd like to use on Google or another website, right-click the image to "copy image address." Then, open the block you want to add your image to. Copy and paste the CSS code below into the block description (NOT the CSS style sheet). Replace the url in the code with the url you've copied. 
 
-<p float="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%201.png" alt="find image and right-click to copy address" width="30%">
+<p align="center">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%201.png" alt="find image and right-click to copy address" width="41%">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%202.png" alt="open the block you want to add your image to" width="30%"/> 
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%203.png" alt="add CSS" width="30%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%203.png" alt="add CSS" width="27%"/> 
   </p>
 
 ```
@@ -319,9 +320,9 @@ max-height 100%;
 
 Change the size of the image by changing the percentage of max-width and max-height. Your final code and final product might end up looking similar to the images below. 
 
-<p float="center">
+<p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%204.png" alt="final code" width="45%">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%205.png" alt="final product" width="45%"/> 
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/add%20image%205.png" alt="final product" width="49%"/> 
 </p>
 
 # Reflections:

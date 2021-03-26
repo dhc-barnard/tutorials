@@ -32,8 +32,6 @@ Using Javascript and CSS, Twine authors can add layers of complexity and aesthet
 
 ## Part 1 - Exploring Narrative Structure with Twine
 
-*Adapted from Miriam Neptune's tutorials on exploring narrative structure with Twine*
-
 Before you begin to work with Twine, you may want to explore possible structures to implement in your interactive narrative. Linked here is some background reading for creating interactive narratives: ["Interactive Narrative | Play with Learning"](http://playwithlearning.com/2010/10/14/exploring-interactive-narrative-part-1-of-6/), ["Serious Interactive Fiction: Constraints, Interfaces, and Creative Writing Pedagogy](https://scholarworks.rit.edu/jcws/vol3/iss1/10/), and ["Game Design as Narrative Architecture](http://web.mit.edu/~21fms/People/henry3/games&narrative.html). 
 
 ### Thinking about Narrative Structure
@@ -61,11 +59,17 @@ Important things to remember when using Twine online are that clearing sessions 
 
 ### Step 2 - Creating a New Story
 
-<img align="right" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
-
 To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
 
-Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Archive' *to* save your story as an html document. 
+<img align="center" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
+
+Name your story: enter a name for your story (you can change this later!) If you're planning to use the text from this tutorial, you can name your story "Strange Encounter in Space."
+
+<p align="center">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/3-name%20story.png" alt="Screen grab of naming story" width="75%">
+</p>
+
+Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Archive' from the Home screen to save your story as an html document. 
 
 <img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/2-archive.png" alt="Screen grab of Archive Button">
 
@@ -73,11 +77,6 @@ If you are using the desktop version of Twine, your story will be saved to your 
 
 ### Step 3 - Adding Content
 
-Name your story: enter a name for your story (you can change this later!)
-
-<p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/3-name%20story.png" alt="Screen grab of naming story" width="75%">
-</p>
 
 After you name your story, you will find yourself at a page that looks like a blueprint. You are now in the Passages View, where you can view all of the passages of your story. Right now you only have one passage in the middle of the screen labelled "Untitled Passage."
 
@@ -91,35 +90,27 @@ Double click the box to edit the passage.
   <img align="center" width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Double click this passage to edit">
 </p>
 
-Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. 
-
-<p align="center">
-  <img align="center" width="50%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/6-double%20click.png" alt="Untitled Passage">
-</p>
-
-If you are just learning how to use twine, we suggest adding the following text: 
- > As soon as the hatch of your ship, the Coriolis, opens, you see the creatures swarming around you. There are many of them, more than you can easily count, and they are all continuously in motion. 
-We will build on this content later. When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
+Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. If you are just learning how to use twine, we suggest adding the following text: 
+ > As soon as the hatch of your ship, the Coriolis, opens, you see the creatures swarming around you. There are many of them, more than you can easily count, and they are all continuously in motion.
+[[Try talking to the creatures]]
+[[Walk down the ramp of your spaceship]]
+ 
+You are now using hypertext markup! Each of these bracketed phrases will become a “block” or page in the story. When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
  
 <p align="center">
   <img align="center" width="50%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
 </p>
 
-### Step 4 - Playing a Story
+### Step 4 - Continue Building Your Story
 
-Now that you've added some text to your story, play your story to see how it looks!
+Add to the story in each block. Write in what you think happens next for each choice. 
 
-Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser.
+**Add image here**
 
-<p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen" width="75%">
-</p>
+Create a link back to the beginning, using the brackets.
 
-<p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab" width="75%">
-</p>
 
-### Step 5 - Connecting Passages
+### Step 4 - Connecting Passages
 
 Make sure you are in the Passages View. Then, double-tap the "Untitled Passage" again. This time, add text at the bottom. You will be adding double opening and closing square brackets around your text to create a "passage link" to link connecting passages in your story. If you are using the suggested text we have provided, add the following text this time: 
  > [[Could this really be Earth!?]]
@@ -134,39 +125,28 @@ If you are exploring how to use Twine using your own story, add your own "next s
   <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/12-%20passages%202.png" alt="connected passages">
 </p>
 
-### Step 6 - Playing your Story Again
 
-Now that you've added some more text to your story, play your story to see how it has changed!
+### Step 5 - Playing a Story
 
-Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser. You can see an updated version of your story that includes the new link you just created. 
+Now that you've added some text to your story, play your story to see how it looks!
 
-<p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/13%20-%20play%202.png" alt="edited story in new tab" width="75%">
-</p>
-
-Passage links act both as connections between stories and as hyperlinks between passages in the story. If you click on the hyperlink, a new passage will load, but the new passage will include the default text "Double-click this passage to edit it."
+Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser.
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/14-%20play%202.png" alt="click on hyperlink" width="75%">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen" width="75%">
 </p>
-
-### Step 7 - Editing your New Passage
-
-Return to the Passage View and double-click the second passage you made. If you've been using the suggested text we've provided, the passage should be named "Could this really be Earth!?" Change its contents by adding to your story. 
-
-Suggested text: 
- > This sure is a strange planet! It can't possibly be Earth. I must have gotten mixed up on my way here.
-When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
 
 <p align="center">
-  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/15-%20text%203.png" alt="editing text again">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab" width="75%">
 </p>
 
-### Step 8 - Finish and Save your Story
+### Step 6 - Save your Story
 
 <img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/17-publish%202.png" alt="pyramid icon and publish to file as HTML">
 
-Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, lay your story again if you'd like (you know how to do this now) and then navigate back to the Passages View. Next, navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
+Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, play your story again if you'd like (you know how to do this now) and then navigate back to the Passages View.
+
+Navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 
 ## Part 3 - Personalizing Your Twine Story
 

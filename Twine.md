@@ -61,7 +61,7 @@ Important things to remember when using Twine online are that clearing sessions 
 
 To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
 
-<img align="center" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/1-new%20story.png" alt="Screen grab of New Story Button">
+<img align="center" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/new-story.png" alt="Screen grab of New Story Button">
 
 Name your story: enter a name for your story (you can change this later!) If you're planning to use the text from this tutorial, you can name your story "Strange Encounter in Space."
 
@@ -90,82 +90,65 @@ Double click the box to edit the passage.
   <img align="center" width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/5-untitled%20passage.png" alt="Double click this passage to edit">
 </p>
 
-Once opening the passage, you can edit its name, tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. If you are just learning how to use twine, we suggest adding the following text: 
- > As soon as the hatch of your ship, the Coriolis, opens, you see the creatures swarming around you. There are many of them, more than you can easily count, and they are all continuously in motion.
-[[Try talking to the creatures]]
+Once opening the passage, you can edit its name (we're using "Arrival"), tags, and contents. To change the contents of the passage, double click the text "Double-click this passage to edit it" and add some content of your own. If you are just learning how to use twine, we suggest adding the following text: 
+ > As soon as the hatch of your ship, the Coriolis, opens, you see the creatures swarming around you. There are many of them, more than you can easily count, and they are all continuously in motion. </br>
+[[Try talking to the creatures]]</br>
 [[Walk down the ramp of your spaceship]]
- 
+
+
 You are now using hypertext markup! Each of these bracketed phrases will become a “block” or page in the story. When you are done editing, close the passage editor by using the Escape key or by clicking the "x" in the upper right corner.
  
-<p align="center">
-  <img align="center" width="50%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/7-text%201.png" alt="adding text">
-</p>
 
 ### Step 4 - Continue Building Your Story
 
-Add to the story in each block. Write in what you think happens next for each choice. 
-
-**Add image here**
-
-Create a link back to the beginning, using the brackets.
-
-
-### Step 4 - Connecting Passages
-
-Make sure you are in the Passages View. Then, double-tap the "Untitled Passage" again. This time, add text at the bottom. You will be adding double opening and closing square brackets around your text to create a "passage link" to link connecting passages in your story. If you are using the suggested text we have provided, add the following text this time: 
- > [[Could this really be Earth!?]]
- 
-<p align="center">
-  <img align="center" width="60%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/11-text%202.png" alt="adding more text">
-</p>
-
-If you are exploring how to use Twine using your own story, add your own "next step" to your story. Remember to add two brackets around your phrase in order for your text to become a link to a new page. Close the passage editor by using the Escape key or by clicking the "x" in the upper right corner. Now that you are back in the Passages View, you can see two passages! If you click or drag either passage, you can see that the two passages are connected.  
+You are now in the Passages view and should see the two new blocks created by your markup. You can drag each passage while maintaining their connection to the initial passage block. For each new passage, double-click the block and add write in what you think happens next for each choice. 
 
 <p align="center">
-  <img align="center" width="40%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/12-%20passages%202.png" alt="connected passages">
+  <img align="center" width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/connected-passages.png" alt="Three passages connected with arrows.">
 </p>
+
+You can continue "branching" your narrative by additing additional choices. Remember to add two brackets around choice text in order for your text to become a link to a new passage (e.g. ``[[Open the door.]]``). 
+
+At some point, you may wish for your reader to return to a specific passage. For example, they may fail a choice and be sent back to the beginning of the story. To connect a passage to an existing passage, add an error to the block notation. ``[[Arrival<- Start Over]]`` sends the reader back to the first passage in our story, titled "Arrival."  
+
+Create a link back to the beginning on one of your passages. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links).
 
 
 ### Step 5 - Playing a Story
 
 Now that you've added some text to your story, play your story to see how it looks!
 
-Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. Your story will open as an HTML file in your web browser.
+Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen. 
 
 <p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen" width="75%">
 </p>
 
-<p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/10-play%201.png" alt="story displayed in new tab" width="75%">
-</p>
+Your story will open as an HTML file in your web browser.
+
 
 ### Step 6 - Save your Story
 
 <img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/17-publish%202.png" alt="pyramid icon and publish to file as HTML">
 
-Keep adding text to your passages. Add more to your story, create new hyperlinks, and add new blocks of text. You can even create a link back to the beginning of your story, using brackets. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links). Then, play your story again if you'd like (you know how to do this now) and then navigate back to the Passages View.
-
-Navigate to the menu bar and click on the pyramid next to your story title. Finally, select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
+When you are ready to save and/or share your story, navigate to the menu bar and click on the triangle icon next to your story title. Select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 
 ## Part 3 - Personalizing Your Twine Story
 
-*Adapted from Miriam Neptune's tutorials on exploring narrative structure with Twine*
-
-In this exercise you will learn how to do the following with Twine: 
+In this section you will learn how to do the following with Twine: 
 1) Change your story's background color
 2) Change font type, font size & font color
 3) Customize a specific text block
 4) Add an image
 
-In this section you will be using the CSS coding language to customize your Twine story. You will need no prior experience in CSS to do this exercise. For reference, here is some basic information from the website [w3schools.com](https://www.w3schools.com/) about CSS:
-- CSS stands for Cascading Style Sheets
-- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
-- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+In this section you will be using [CSS](https://www.w3schools.com/css/) markup language to customize your Twine story. You will need no prior experience in CSS to do this exercise. 
+- CSS stands for Cascading Style Sheets.
+- CSS instructs your browser on how to display content (HTML elements).
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 
 **Basic CSS Terms:**
 
-Text Align - Chose between “Left”,”Right”, & “Center
+Text Align - Chose between “Left”, ”Right”, & “Center"
 
 Color - Color of text, name color e.g. Red or Hex e.g. #0635c9
 
@@ -179,7 +162,7 @@ Padding - Distance of text from border (recommendation choose between 1%-15%)
 
 ### Changing Background Color
 
-Open the menu on the lower left corner (e.g. mine says “demo”) and then click on “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
+navigate to the menu bar and click on the triangle icon next to your story title, then select “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet 
 
 <p align="center">
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/stylesheet.png" alt="story stylesheet" width="18.4%"/>
@@ -204,11 +187,6 @@ background-color: #ed2d2d;
 ```
 
 To view your changes, exit the style sheet (no save needed) and click play. Check to see if you like the changes you made. You can always go back and change it to a different color.
-
-<p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%204%20play.png" alt="play to view changes" width="75%">
-</p>
-
 
 <p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/miriam%20-%205%20before.png" alt="story page before" width="44%"/>
@@ -257,7 +235,6 @@ font-size: 20pt;
 The CSS codes used in earlier parts of this tutorial will automatically apply to your whole story on Twine, so if you only want to customize a specific text block, you can use the "tag" function. 
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%201.png" alt="your map" width="45%"/>
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/Twine/block%20text%202.png" alt="one specific block on the map" width="45%"/> 
 </p>
 

@@ -4,6 +4,18 @@
 ## Introduction to the tool:
 [What is the tool? What should they know about it up front?]
 
+## Duration:
+[X] min
+
+## Materials:
+[e.g. url of digital tool, any physical materials, etc.]
+
+## Learning Goals: 
+[Refer to the institute goals. How does this enable people to “think digitally?”]
+
+- Goal #1
+- Goal #2
+
 ### The tool is great for:
 - Pros
 
@@ -24,12 +36,6 @@
 
 ### The tool is not great for:
 - Cons
-
-## Materials:
-
-[e.g. url of digital tool, any physical materials, etc.]
-
-- 
 
 # Guided Practice
 

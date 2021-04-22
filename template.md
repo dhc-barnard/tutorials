@@ -1,6 +1,7 @@
 *[page 1 -- README.md]*
 
 # Tool Name
+*Authors, license, revision*
 ## Introduction to the tool:
 [What is the tool? What should they know about it up front?]
 
@@ -23,19 +24,6 @@
 - Cons
 
 *[page 2 -- tool.md]*
-
-# Tool Name
-
-*Authors, license, revision*
-
-## Introduction to the tool 
-[What is the tool? What should they know about it up front?]
-
-### The tool is great for:
-- Pros
-
-### The tool is not great for:
-- Cons
 
 # Guided Practice
 

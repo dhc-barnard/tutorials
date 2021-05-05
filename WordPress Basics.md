@@ -46,7 +46,7 @@ The back-end page has a dashboard displaying a summary of the activity and conte
   <i>This is the front end of the website. Here you can see the website display and add content using the “+ New” menu tab on the top bar.</i>
 </p>
 
-Many prefer to work through the front-end of WordPress. Though the back-end of WordPress offers many tools and setting controls, with the front-end you can focus more readily on content creation.
+Many people prefer to work through the front-end of WordPress. Though the back-end of WordPress offers many tools and setting controls, with the front-end you can focus more readily on content creation.
 
 ## Step 2: Creating a Post
 ### Posts
@@ -96,9 +96,9 @@ You can also switch from the visual editor to an HTML editor by clicking the ver
 
 You can add a variety of content with the block editor including images, slideshows, audio, videos, etc.
 
-When adding images you have the option to upload an image, select an image from the media library, or insert an image URL. Images uploaded will automatically be added to the media library. However, when uploading images found from the internet, it is important to note that uploading a copy of an image from the internet disconnects the image from its original context and metadata. In addition, uploading a copy of an image adds to the carbon footprint of the server storing it.
+When adding images you have the option to upload an image, select an image from the media library, or insert an image URL. Images uploaded will automatically be added to the media library. However, when uploading images found from the internet, it is important to note that uploading a copy of an image from the internet disconnects the image from its original context and metadata. In addition, uploading a copy of an image adds to the carbon footprint of the server storing it. When possible, it is a greener practice to simply insert an image URL, which you can find by right clicking or control clicking and copying the link address. Note, however, that if the image is removed from the original site, it will no longer be visible on your site either and the alt text will appear instead.
 
-When adding an image to the site, it is good practice to add alt text. In the alt text you should describe the function of the image to increase the accessibility of your content. The alt text will appear in the case that the image is not able to load and helps screen-reading tools that describe the image to visually impaired users.
+When adding an image to the site, it is also necessary to add alt text. In the alt text you should describe the function of the image to increase the accessibility of your content. The alt text will appear in the case that the image is not able to load and helps screen-reading tools that describe the image to visually impaired users.
 
 </br>
 <p align="center">
@@ -130,7 +130,7 @@ Categories and Tags are useful ways to organize posts. Categories are useful for
 
 <p align="center">
   <img src="/images/wordpress/10-tags.png" width="600" alt="Display of how to add tags on post">
-  </br><i>The alt text can be added through the image settings that pop up as a sidebar when you add an image to your post.</i>
+  </br><i>Tags can be added in the post settings. You can add multiple tags by separating each with a comma or using the Enter key.</i>
 </p>
 *As an author you can create new tags in the document settings sidebar toggled by the gears on the top bar. You can also select which category you want your post to fall under.*
 

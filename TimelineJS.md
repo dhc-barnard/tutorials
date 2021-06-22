@@ -52,7 +52,7 @@ Now, let's dive into the specifics of a TimelineJS. A TimelineJS is a lot like a
 
 #### *For Event Slides:*
 
-![Slide showing placement of components: media, display date, headline, text, credit, caption, date, era and group](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/1-slideexamplefinal-timeline.png)
+![Slide showing placement of components: media, display date, headline, text, credit, caption, date, era and group](/images/timelinejs/1-slideexamplefinal-timeline.png)
 
 **Story-Portion of Slide (Top, Labeled in Pink)**
 
@@ -76,7 +76,7 @@ Except for the date, all of these components are optional. So, you can pick and 
 
 The title slide can contain all of the same components as the event slides. However, it is not tied to any specific event or period of time:
 
-![Title slide for A Photographic History of Barnard Greek Games](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/2-timeline.png)
+![Title slide for A Photographic History of Barnard Greek Games](/images/timelinejs/2-timeline.png)
 
 Planning Your Timeline
 ----------------------
@@ -118,7 +118,7 @@ To start your TimelineJS, please go to [http://timeline.knightlab.com/.](http://
 
 For TimelineJS to work, you need to organize your content in a Google sheet. Luckily, there's a template for us to copy and edit. Click "[Get the Spreadsheet Template](https://docs.google.com/spreadsheets/u/1/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy)," and confirm that you want to make a copy. Make sure you're making a copy to your personal (or other non-gBear)  account.  The spreadsheet should look something like this:
 
-![spreadsheet with example copy filled in](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/3-timeline.png)
+![spreadsheet with example copy filled in](/images/timelinejs/3-timeline.png)
 
 Before we continue, change the name of the spreadsheet to something more memorable. There's currently sample content in the spreadsheet, and soon we'll be changing it to our own content. First, however, there are a couple of things to know about working with the spreadsheet:
 
@@ -133,7 +133,7 @@ Take a look at the second row in the spreadsheet (the first one below the header
 
 Let's take a deeper look at this row, from left to right.
 
-![Four groups of cells: date, text, media and additional](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/4-row-example.png)
+![Four groups of cells: date, text, media and additional](/images/timelinejs/4-row-example.png)
 
 -   **Date cells:** The first group of cells ask for start, end, and display dates. Because this is the title slide, these cells have been left blank. We'll leave them that way.
 
@@ -193,7 +193,7 @@ Here's how this works: this spreadsheet,
 
 will generate a slide that looks like this:
 
-![Slide showing location of display date and date](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/12-slidexampleagain.png)
+![Slide showing location of display date and date](/images/timelinejs/12-slidexampleagain.png)
 
 Now that we've seen how dates work, **add dates for your first event slide, and then fill out the text and media cells the same way we did for the title slide.**
 
@@ -205,7 +205,7 @@ Next, we get to the additional cells:
 
 Completed event slide rows should look similar to rows 3 & 4 below (but with your own content, of course!)
 
-### ![3 rows of timelinejs spreadsheet](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/13-timeline.png)
+### ![3 rows of timelinejs spreadsheet](/images/timelinejs/13-timeline.png)
 
 Now that you know how to make event slides, you can **complete the rest of the slides on your timeline.** Here is a guide and two sample spreadsheets to help you out if you get stuck:
 
@@ -219,11 +219,11 @@ Once you've finished making your slides, you can add eras to your TimelineJS. If
 
 As a reminder, eras are colored bars representing spans of time across the bottom of your Timeline, like in this example:
 
-![eras on bottom of timeline slide](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/14-timeline.png)
+![eras on bottom of timeline slide](/images/timelinejs/14-timeline.png)
 
 Just like slides, you add an era to your TimelineJS by adding a row to your spreadsheet. Since eras don't show up as full slides, you only need to fill out a few of the cells: **add your start and end dates, give your era a name in the "headline" cell, and set "type" to "era."** All other cells can be left blank. Here are some completed era rows as an example:
 
-![era rows showing filled out dates, headline and type - other cells are left blank](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/15-timeline.png)
+![era rows showing filled out dates, headline and type - other cells are left blank](/images/timelinejs/15-timeline.png)
 
 At last, you're done with your spreadsheet!
 

@@ -52,7 +52,7 @@ Now, let's dive into the specifics of a TimelineJS. A TimelineJS is a lot like a
 
 #### *For Event Slides:*
 
-![Slide showing placement of components: media, display date, headline, text, credit, caption, date, era and group](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/1-slideexamplefinal-timeline.png)
+![Slide showing placement of components: media, display date, headline, text, credit, caption, date, era and group](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/1-slideexamplefinal-timeline.png)
 
 **Story-Portion of Slide (Top, Labeled in Pink)**
 
@@ -68,7 +68,7 @@ Now, let's dive into the specifics of a TimelineJS. A TimelineJS is a lot like a
 -   **Date:** This is when the event in your slide takes place. It can be very specific (a single day) or broader (a span of years).
 -   **Headline:** This will be the same headline from the top-portion of the slide
 -   **Eras:** These are a way of dividing your TimelineJS into chronological sections. They will be represented visually on the timeline with a colorful bar and title.  For example, the Greek Games Timeline has two eras: "Original Games" and the "Revived Games."
--   **Group:** Groups are a way of tagging related events, letting you showcase similar event subjects or types from anywhere in your chronology. Events in the same group appear on the timeline within the same horizontal row. In the Greek Games example, the group "hoop rolling" contains a slide about hoop rolling from the 1930s, as well as one from 2011. 
+-   **Group:** Groups are a way of tagging related events, letting you showcase similar event subjects or types from anywhere in your chronology. Events in the same group appear on the timeline within the same horizontal row. In the Greek Games example, the group "hoop rolling" contains a slide about hoop rolling from the 1930s, as well as one from 2011.
 
 Except for the date, all of these components are optional. So, you can pick and choose what makes the most sense for your slide. While including all of these components can help you tell a more complete, media-rich, narrative, there may be times where certain components don't make sense for the story you're telling.
 
@@ -76,7 +76,7 @@ Except for the date, all of these components are optional. So, you can pick and 
 
 The title slide can contain all of the same components as the event slides. However, it is not tied to any specific event or period of time:
 
-![Title slide for A Photographic History of Barnard Greek Games](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/2-timeline.png)
+![Title slide for A Photographic History of Barnard Greek Games](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/2-timeline.png)
 
 Planning Your Timeline
 ----------------------
@@ -106,19 +106,19 @@ Take a moment to review your work. Does it have a strong start and end date?  Yo
 Making TimelineJS Slides
 ------------------------
 
-It's time to start using the TimelineJS tool! This [tutorial](https://youtu.be/Mu8NyRk_ja4), by EdTechTeacher, gives a nice overview of how to use TimelineJS. If you're new to TimelineJS, I'd recommend watching it before we go through the steps together. 
+It's time to start using the TimelineJS tool! This [tutorial](https://youtu.be/Mu8NyRk_ja4), by EdTechTeacher, gives a nice overview of how to use TimelineJS. If you're new to TimelineJS, I'd recommend watching it before we go through the steps together.
 
 ### Step 1 - Getting Started
 
 We'll be using Google accounts to create our TimelineJS. **Unfortunately, gBear accounts do not work with TimelineJS. So, please login to Google with a personal account (other another  Google account that lets you share items publicly.)**
 
-To start your TimelineJS, please go to [http://timeline.knightlab.com/.](http://timeline.knightlab.com/). Click the big green button that says "Make a Timeline." 
+To start your TimelineJS, please go to [http://timeline.knightlab.com/.](http://timeline.knightlab.com/). Click the big green button that says "Make a Timeline."
 
 ### Step 2 - Copying the Spreadsheet
 
 For TimelineJS to work, you need to organize your content in a Google sheet. Luckily, there's a template for us to copy and edit. Click "[Get the Spreadsheet Template](https://docs.google.com/spreadsheets/u/1/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/copy)," and confirm that you want to make a copy. Make sure you're making a copy to your personal (or other non-gBear)  account.  The spreadsheet should look something like this:
 
-![spreadsheet with example copy filled in](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/3-timeline.png)
+![spreadsheet with example copy filled in](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/3-timeline.png)
 
 Before we continue, change the name of the spreadsheet to something more memorable. There's currently sample content in the spreadsheet, and soon we'll be changing it to our own content. First, however, there are a couple of things to know about working with the spreadsheet:
 
@@ -133,24 +133,24 @@ Take a look at the second row in the spreadsheet (the first one below the header
 
 Let's take a deeper look at this row, from left to right.
 
-![Four groups of cells: date, text, media and additional](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/4-row-example.png)
+![Four groups of cells: date, text, media and additional](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/4-row-example.png)
 
 -   **Date cells:** The first group of cells ask for start, end, and display dates. Because this is the title slide, these cells have been left blank. We'll leave them that way.
 
 <p align="center">
- <img align="center" width="70%" src="/images/TimelineJS/5-timeline.png" alt="Date cells with labels">
+ <img align="center" width="70%" src="/images/timelinejs/5-timeline.png" alt="Date cells with labels">
 </p>
 
--   **Text cells:** These are simple, just **replace the sample "headline" and "text" cells with your own copy.** 
+-   **Text cells:** These are simple, just **replace the sample "headline" and "text" cells with your own copy.**
 
 <p align="center">
- <img align="center" width="70%" src="/images/TimelineJS/6-timeline.png" alt="headline and text cells with content about Barnard Greek games">
+ <img align="center" width="70%" src="/images/timelinejs/6-timeline.png" alt="headline and text cells with content about Barnard Greek games">
 </p>
 
 -   **Media cells:** These cells refer to the media - image, video, Twitter post, etc. on your slide.  You can  view [a list of all media types TimelineJS accepts.](https://timeline.knightlab.com/docs/media-types.html)
 
 <p align="center">
- <img align="center" width="70%" src="/images/TimelineJS/7-timeline.png" alt="Sample media cells">
+ <img align="center" width="70%" src="/images/timelinejs/7-timeline.png" alt="Sample media cells">
 </p>
 
 **Delete their sample media and add your own.** *As you add your media, keep the following tips in mind:*
@@ -161,10 +161,10 @@ Let's take a deeper look at this row, from left to right.
     - *Correct Link*: [https://images.metmuseum.org/CRDImages/as/original/DP205729_CRD.jpg](https://images.metmuseum.org/CRDImages/as/original/DP205729_CRD.jpg)
 
 -   Your URL must be publicly accessible to everyone. That means you cannot host your media on your gBear account, as these can't be shared publicly
--   The media thumbnail cell is usually best left blank; it lets you add tiny images to your timeline but can be tricky to use. 
--   **Additional Cells:** The last three cells give additional options for customization. We've already added the "type" information, and the "group" cell is only relevant for events slides. The background cell lets you change your slides background - you can use an image file, a [CSS color name](https://www.w3schools.com/cssref/css_colors.asp), or a [hex code](https://www.hexcolortool.com/). 
+-   The media thumbnail cell is usually best left blank; it lets you add tiny images to your timeline but can be tricky to use.
+-   **Additional Cells:** The last three cells give additional options for customization. We've already added the "type" information, and the "group" cell is only relevant for events slides. The background cell lets you change your slides background - you can use an image file, a [CSS color name](https://www.w3schools.com/cssref/css_colors.asp), or a [hex code](https://www.hexcolortool.com/).
 
-<img src="/images/TimelineJS/8-timeline.png" width="20%" alt="title, group and background cells">
+<img src="/images/timelinejs/8-timeline.png" width="20%" alt="title, group and background cells">
 
 You've finished your title slide! Now, let's move on to an event slide.
 
@@ -173,27 +173,27 @@ You've finished your title slide! Now, let's move on to an event slide.
 Making an event slide is very similar to making a Title slide, with one key difference: You'll need to add dates. Let's turn our attention to the next row (row 3), where there is a sample event slide:
 
 <p align="center">
- <img align="center" width="60%" src="/images/TimelineJS/9-timeline.png" alt="Date information cells: start year, month, date and time; end year, month, date and time; display date">
+ <img align="center" width="60%" src="/images/timelinejs/9-timeline.png" alt="Date information cells: start year, month, date and time; end year, month, date and time; display date">
 </p>
 
-In this example, there is both a start date (November 1, 2011) and an end date (December 15, 2011), showing that an event occurred over a range of time.  However, the date can also just be a single date, month or year. 
+In this example, there is both a start date (November 1, 2011) and an end date (December 15, 2011), showing that an event occurred over a range of time.  However, the date can also just be a single date, month or year.
 
 The date (or range of dates) will appear both on the top and bottom of the slide, as shown below. This slide was generated by the data in the example spreadsheet:
 
 <p align="center">
- <img align="center" width="100%" src="/images/TimelineJS/10-daterangexample.png" alt="slide where date range appears on the top and the bottom">
+ <img align="center" width="100%" src="/images/timelinejs/10-daterangexample.png" alt="slide where date range appears on the top and the bottom">
 </p>
 You can also add in a display date to override the date information that appears in the top portion of your slide. You might do this because you don't like the TimelineJS date format, or because there's some additional context you want to add. In the example below, I used "Spring 1903" as the display date to provide a bit more information to viewers.
 
 Here's how this works: this spreadsheet,
 
 <p align="center">
- <img align="center" width="60%" src="/images/TimelineJS/11-timeline.png" alt="date cells with year as '1903' and display date as 'Spring 1903'">
+ <img align="center" width="60%" src="/images/timelinejs/11-timeline.png" alt="date cells with year as '1903' and display date as 'Spring 1903'">
 </p>
 
 will generate a slide that looks like this:
 
-![Slide showing location of display date and date](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/12-slidexampleagain.png)
+![Slide showing location of display date and date](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/12-slidexampleagain.png)
 
 Now that we've seen how dates work, **add dates for your first event slide, and then fill out the text and media cells the same way we did for the title slide.**
 
@@ -205,7 +205,7 @@ Next, we get to the additional cells:
 
 Completed event slide rows should look similar to rows 3 & 4 below (but with your own content, of course!)
 
-### ![3 rows of timelinejs spreadsheet](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/13-timeline.png)
+### ![3 rows of timelinejs spreadsheet](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/13-timeline.png)
 
 Now that you know how to make event slides, you can **complete the rest of the slides on your timeline.** Here is a guide and two sample spreadsheets to help you out if you get stuck:
 
@@ -219,11 +219,11 @@ Once you've finished making your slides, you can add eras to your TimelineJS. If
 
 As a reminder, eras are colored bars representing spans of time across the bottom of your Timeline, like in this example:
 
-![eras on bottom of timeline slide](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/14-timeline.png)
+![eras on bottom of timeline slide](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/14-timeline.png)
 
 Just like slides, you add an era to your TimelineJS by adding a row to your spreadsheet. Since eras don't show up as full slides, you only need to fill out a few of the cells: **add your start and end dates, give your era a name in the "headline" cell, and set "type" to "era."** All other cells can be left blank. Here are some completed era rows as an example:
 
-![era rows showing filled out dates, headline and type - other cells are left blank](https://github.com/dhc-barnard/tutorials/blob/master/images/TimelineJS/15-timeline.png)
+![era rows showing filled out dates, headline and type - other cells are left blank](https://github.com/dhc-barnard/tutorials/blob/master/images/timelinejs/15-timeline.png)
 
 At last, you're done with your spreadsheet!
 
@@ -234,11 +234,11 @@ Now that you've finished your spreadsheet (the most difficult part!), it's time 
 The easiest way to do this to **follow steps 2 through 4** on the  [Timeline website](https://timeline.knightlab.com/), in the Make A Timeline section.  We've already done the first step, creating a spreadsheet.  Screenshots of the steps are shown below for reference:
 
 <p align="center">
- <img align="center" width="70%" src="/images/TimelineJS/16-step2.png" alt="step2 from Timeline instructions - visit Timeline website for accessible version">
+ <img align="center" width="70%" src="/images/timelinejs/16-step2.png" alt="step2 from Timeline instructions - visit Timeline website for accessible version">
 
- <img align="center" width="70%" src="/images/TimelineJS/17-step3.png" alt="step3 from Timeline instructions - visit Timeline website for accessible version">
+ <img align="center" width="70%" src="/images/timelinejs/17-step3.png" alt="step3 from Timeline instructions - visit Timeline website for accessible version">
 
- <img align="center" width="70%" src="/images/TimelineJS/18-step4.png" alt="step 4 from Timeline instructions - visit Timeline website for accessible version">
+ <img align="center" width="70%" src="/images/timelinejs/18-step4.png" alt="step 4 from Timeline instructions - visit Timeline website for accessible version">
 </p>
 
 Preview your TimelineJS, and see if you want to make any changes! You can edit your Timeline just by making changes in the spreadsheet - no need to republish!
@@ -270,4 +270,4 @@ A full list of the examples used in this tutorial (as well as some other project
 - [TimelineJS Documentation & Help](https://timeline.knightlab.com/docs/index.html): Includes guides for more advanced features, such as further customizing the look and feel of your Timeline using code
 
 ## Barnard Resources:
-- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS](https://imats.barnard.edu/) for additional help! 
+- Barnard faculty, staff, and students are free to reach out to the [DHC](https://digitalhumanities.barnard.edu/) or [IMATS](https://imats.barnard.edu/) for additional help!

@@ -27,7 +27,9 @@ WordPress is a free and open source content management system. More than 30% of 
 
 Now, to access the content management side of your course website, visit your domain/homepage’s url followed by `/wp-admin.` You will land on this login page. You can login with your username and password. If you are an added user see the section on [Adding Users](#Adding-Users) on obtaining login information.
 
-<img align="center" width="400" src="/images/wordpress/1-login.png" alt="Log In page for WordPress course website">
+<p align="center">
+  <img width="400" src="/images/wordpress/1-login.png" alt="Log In page for WordPress course website">
+</p>
 
 ### Back-End vs. Front-End
 

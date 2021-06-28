@@ -55,7 +55,7 @@ Many people prefer to work through the front-end of WordPress. Though the back-e
 
 ### Adding Users
 
-<img align="right" width="300" src="/images/wordpress/12-adding-users.png" alt="Add New User page on WordPress">
+<img align="right" width="400" src="/images/wordpress/12-adding-users.png" alt="Add New User page on WordPress">
 
 
 If you are an administrator of your WordPress website, you can add users. To add users to the site, simply navigate to the User's tab in the navigation bar on the back-end of your WordPress website. Here there will be a summary of users and their roles. Add a new user by filling out the information asked by the "Add New User" page. You can decide on the role of each new user. Here is a summary of the privileges that come with each role:

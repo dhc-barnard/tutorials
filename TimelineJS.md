@@ -256,7 +256,7 @@ Finally, you can also share your TimelineJS!
 A full list of the examples used in this tutorial (as well as some other projects) is included below:
 - [The View From Ginling](https://mct.barnard.edu/home/timeline)
 - [Columbia University and the Slavery Timeline](https://slaveryexhibits.ctl.columbia.edu/timeline-narrative)
-- [Taxi Driver Scene Analysis; Shot by Shot)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1B6r1s4HiDH3wRS59jtW-U1juyD351QqffC7u5xjaxP4&font=Default&lang=en&initial_zoom=2&height=750)
+- [Taxi Driver Scene Analysis; Shot by Shot](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1B6r1s4HiDH3wRS59jtW-U1juyD351QqffC7u5xjaxP4&font=Default&lang=en&initial_zoom=2&height=750)
 - [A Photographic History of Barnard's Greek Games](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JUEDu68qzv2STUsHIb7fpCA6UT49l54_0VoT7sfq-IU&font=Georgia-Helvetica&lang=en&initial_zoom=1&height=650)
 - [TimelineJS Examples Gallery](https://timeline.knightlab.com/#examples)
 - [Holocaust Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZUmudkku1flT4GeXdCAEs9TnVpVVSzYTqHPUzsVkuZA&font=Default&lang=en&timenav_position=top&initial_z)

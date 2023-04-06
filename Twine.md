@@ -292,6 +292,14 @@ Change the size of the image by changing the percentage of max-width and max-hei
 
 # Resources:
 
+- [How to get started with Twine](https://twinery.org/cookbook/starting/twine2/firststory.html)
+  1. In the table of contents on the left, you can browse more and find more resources on how to add links, choose the story formats, how to review, etc.
+- [How to add HTML and CSS](https://twinery.org/cookbook/html/reviewing.html)
+
+  2. On the same web, on the left table of contents you can find sections like
+  Working with HTML
+  Working with CSS
+
 ## Examples of Successful Projects:
 
 - [The Social Life of Data](https://sociallifeofdata.org/) - An educational experience created to allow users to explore how information is created, travels, and is contested across different media.

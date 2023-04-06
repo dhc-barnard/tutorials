@@ -66,10 +66,10 @@ To create a new story, click on the "+ new" symbol below the Story tab on the le
 Name your story: enter a name for your story (you can change this later!) If you're planning to use the text from this tutorial, you can name your story "Strange Encounter in Space."
 
 <p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/3-name%20story.png" alt="Screen grab of naming story" width="75%">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/3-name-story.png" alt="Screen grab of naming story" width="75%">
 </p>
 
-Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Archive' from the Home screen to save your story as an html document.
+Again, if you are using the browser-based version of Twine, the story file will be saved in your browser so if you erase your browser cache, your work will be deleted. Select 'Build' from the navigation bar at the top and click "Export as Twee" - if you want to save the code and/or "Publish to File" - if you want to save the full story as html document.
 
 <img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/2-archive.png" alt="Screen grab of Archive Button">
 
@@ -81,7 +81,7 @@ If you are using the desktop version of Twine, your story will be saved to your 
 After you name your story, you will find yourself at a page that looks like a blueprint. You are now in the Passages View, where you can view all of the passages of your story. Right now you only have one passage in the middle of the screen labelled "Untitled Passage."
 
 <p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/4-passage%20view.png" alt="Passages view" width="75%">
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/4-passage-view.png" alt="Passages view" width="75%">
 </p>
 
 Double click the box to edit the passage.
@@ -107,21 +107,21 @@ You are now in the Passages view and should see the two new blocks created by yo
   <img align="center" width="30%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/connected-passages.png" alt="Three passages connected with arrows.">
 </p>
 
-You can continue "branching" your narrative by additing additional choices. Remember to add two brackets around choice text in order for your text to become a link to a new passage (e.g. ``[[Open the door.]]``). 
+You can continue "branching" your narrative by additing additional choices. Remember to add two brackets around choice text in order for your text to become a link to a new passage (e.g. ``[[Try talking to the creatures]]``). 
 
 At some point, you may wish for your reader to return to a specific passage. For example, they may fail a choice and be sent back to the beginning of the story. To connect a passage to an existing passage, add an error to the block notation. ``[[Arrival<- Start Over]]`` sends the reader back to the first passage in our story, titled "Arrival."  
 
-Create a link back to the beginning on one of your passages. You can experiment more with links by reading the [Twine Wiki](http://twinery.org/wiki/twine2:how_to_create_links).
+Create a link back to the beginning on one of your passages. You can experiment more with links by reading the [Twine Cookbook](http://twinery.org/wiki/twine2:how_to_create_links).
 
 
 ### Step 5 - Playing a Story
 
 Now that you've added some text to your story, play your story to see how it looks!
 
-Once you have closed the passage editor and are in Passage View, you can see the Story Menu at the bottom of the screen. This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen.
+In the navigation bar, select Build and clikc on Play This menu allows you to navigate, change, and play your story. Click on the "Play" button in the bottom right-hand corner of the screen.
 
 <p align="center">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/8-bottom%20menu.png" alt="story menu at the bottom of the screen" width="75%">
+  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/8-top-play.png" alt="story menu at the bottom of the screen" width="75%">
 </p>
 
 Your story will open as an HTML file in your web browser.
@@ -129,9 +129,7 @@ Your story will open as an HTML file in your web browser.
 
 ### Step 6 - Save your Story
 
-<img align="right" width="20%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/17-publish%202.png" alt="pyramid icon and publish to file as HTML">
-
-When you are ready to save and/or share your story, navigate to the menu bar and click on the triangle icon next to your story title. Select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
+When you are ready to save and/or share your story, navigate to the menu bar and click on the Build. Select the option "Publish to File" to save your story as an HTML file that you can open in any browser to play.
 
 ## Part 3 - Personalizing Your Twine Story
 
@@ -162,11 +160,11 @@ Padding - Distance of text from border (recommendation choose between 1%-15%)
 
 ### Changing Background Color
 
-navigate to the menu bar and click on the triangle icon next to your story title, then select “Edit Story Stylesheet." The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet
+navigate to the navigation bar and click on Story, then select “Stylesheet" The empty stylesheet can be used to enter CSS code. In this tutorial we will provide basic code that you can copy and paste into your own stylesheet
 
 <p align="center">
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/stylesheet.png" alt="story stylesheet" width="18.4%"/>
-  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/miriam%20-%202%20before.png" alt="story style sheet before" width="35%"/>
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/stylesheet-new.png" alt="story stylesheet" width="18.4%"/>
+  <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/stylesheet-popup.png" alt="story style sheet before" width="35%"/>
   <img src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/miriam%20-%203%20after.png" alt="story style sheet after" width="35%" />
 </p>
 
@@ -242,7 +240,6 @@ First, open a block and add a tag (e.g. "IMATS") with the "+Tag" button. Then, g
 
 <p align="center">
   <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/block%20text%203.png" alt="edit block and add tag" width="50%">
-  <img align="center" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/block%20text%204.png" alt="go back to your style sheet" width="36%"/>
 </p>
 
 In order to change the style of the singular block, copy and paste the CSS code below into your style sheet.

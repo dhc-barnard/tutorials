@@ -2,7 +2,7 @@
 
 *Created by Miranda Jones-Davidis and Miriam Neptune*
 
-*Updated February 8, 2021 by Miranda Jones-Davidis*
+*Updated April 6, 2023 by Fatima Azimova*
 
 ## Introduction to the tool
 
@@ -59,9 +59,9 @@ Important things to remember when using Twine online are that clearing sessions 
 
 ### Step 2 - Creating a New Story
 
-To create a new story, click on the "+ story" symbol below the Twine logo on the right of the page.
+To create a new story, click on the "+ new" symbol below the Story tab on the left of the page.
 
-<img align="center" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/new-story.png" alt="Screen grab of New Story Button">
+<img align="center" width="10%" src="https://github.com/dhc-barnard/tutorials/blob/master/images/twine/new_story.png" alt="Screen grab of New Story Button">
 
 Name your story: enter a name for your story (you can change this later!) If you're planning to use the text from this tutorial, you can name your story "Strange Encounter in Space."
 

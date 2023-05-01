@@ -181,28 +181,28 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 ![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image] (/images/storymapjs/Screen-Shot-2023-05-01-at-4.55.25-PM.png)
 
--- As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://storymap.knightlab.com/examples/bosch-garden/) it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
+As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://storymap.knightlab.com/examples/bosch-garden/) it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
  
- -- [Game of Thrones: Arya’s Journey] (https://storymap.knightlab.com/examples/aryas-journey/)
- -- [Golden Age of Versailles] (https://jardins-de-louis.glitch.me/parcours.html)
- -- [Southern Literary Trail] (https://www.georgiahumanities.org/southern-literary-trail-story-map/)
+[Game of Thrones: Arya’s Journey] (https://storymap.knightlab.com/examples/aryas-journey/)
+[Golden Age of Versailles] (https://jardins-de-louis.glitch.me/parcours.html)
+[Southern Literary Trail] (https://www.georgiahumanities.org/southern-literary-trail-story-map/)
 
---Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern ---Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a -computer as an image. Maps have a different underlying structure than images.
+Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern ---Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a -computer as an image. Maps have a different underlying structure than images.
 
---**Step 1**
---Select your image. You'll need to find an image that makes sense with your content and the story you want to tell, as well as one that you have the rights to use for your project. The image's dimensions must be at least 2000px by 2000px, and it's best if they're even larger than that. Because these images are so large, you'll see them referred to on the StoryMap site as "Gigapixels."
+ -**Step 1**
+Select your image. You'll need to find an image that makes sense with your content and the story you want to tell, as well as one that you have the rights to use for your project. The image's dimensions must be at least 2000px by 2000px, and it's best if they're even larger than that. Because these images are so large, you'll see them referred to on the StoryMap site as "Gigapixels."
 
---If you don't have such an image readily available, and aren't able to find or create one, StoryMapJS may not be the best tool for your project.
+If you don't have such an image readily available, and aren't able to find or create one, StoryMapJS may not be the best tool for your project.
 
---**Step 2**
---"Zoomify" your image. For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles, and "zoomifying" your image is a process that converts your image into a series of tiles. You can follow these instructions to Zoomify your image with Adobe Photoshop.
+ -**Step 2**
+"Zoomify" your image. For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles, and "zoomifying" your image is a process that converts your image into a series of tiles. You can follow these instructions to Zoomify your image with Adobe Photoshop.
 
---**Step 3**
+ -**Step 3**
 --Host the image tiles on the web. Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow these instructions for hosting your tiles on GitHub.
 
---Alternatively, if you have experience with another web hosting service, feel free to use it instead.
+Alternatively, if you have experience with another web hosting service, feel free to use it instead.
 
--NOTE: We have completed steps 1-3 on your behalf. Choose between Image Base Map 1 (1674)
+ -NOTE: We have completed steps 1-3 on your behalf. Choose between Image Base Map 1 (1674)
 or 2 (1680) and continue with Step 4. 
 Image Base Map 1 (1674)
 Image Base Map 2 (1680)

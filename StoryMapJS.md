@@ -184,9 +184,9 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
  
  As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://storymap.knightlab.com/examples/bosch-garden/) it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
  
- - [Game of Thrones: Arya’s Journey] (https://storymap.knightlab.com/examples/aryas-journey/)
- - [Golden Age of Versailles] (https://jardins-de-louis.glitch.me/parcours.html)
- - [Southern Literary Trail] (https://www.georgiahumanities.org/southern-literary-trail-story-map/)
+ [Game of Thrones: Arya’s Journey] (https://storymap.knightlab.com/examples/aryas-journey/)
+ [Golden Age of Versailles] (https://jardins-de-louis.glitch.me/parcours.html)
+ [Southern Literary Trail] (https://www.georgiahumanities.org/southern-literary-trail-story-map/)
 
 Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a computer as an image. Maps have a different underlying structure than images.
 

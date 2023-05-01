@@ -175,11 +175,11 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 ![Showing locations of options button, background options button and marker options button](/images/storymapjs/12-Storymap-customstyle.png)
 
-**Base Map:** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. The custom, MapBox or Gigapixel options are for people who have created their own maps or images. Click "close" to see your changes. See below for instructions on how use a "Gigapixel" image as your base map.
+**Base Map:** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. The custom, MapBox or Gigapixel options are for people who have created their own maps or images. Click "close" to see your changes. 
 
 **Using A "Gigapixel" Image As Your Base Map:**
 
-[Example of Storymap with Gigapixel image as base map] (/images/storymapjs/Screen-Shot-2023-05-01-at-4.55.25-PM.png)
+[Example of Storymap with Gigapixel image as base map] (images/timelinejs/Screen Shot 2023-05-01 at 4.55.25 PM.png)
  
  As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://storymap.knightlab.com/examples/bosch-garden/) it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
  

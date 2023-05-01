@@ -181,8 +181,7 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 ![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image] (/images/storymapjs/Screen-Shot-2023-05-01-at-4.55.25-PM.png)
 
- 
- As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://storymap.knightlab.com/examples/bosch-garden/) it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
+As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://storymap.knightlab.com/examples/bosch-garden/) it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
  
  - [Game of Thrones: Arya’s Journey] (https://storymap.knightlab.com/examples/aryas-journey/)
  - [Golden Age of Versailles] (https://jardins-de-louis.glitch.me/parcours.html)
@@ -200,12 +199,12 @@ If you don't have such an image readily available, and aren't able to find or cr
 
 *Step 3 *
 Host the image tiles on the web. Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow these instructions for hosting your tiles on GitHub.
-Links to an external site.
- Alternatively, if you have experience with another web hosting service, feel free to use it instead.
+
+Alternatively, if you have experience with another web hosting service, feel free to use it instead.
 NOTE: We have completed steps 1-3 on your behalf. Choose between Image Base Map 1 (1674)
- or 2 (1680) and continue with Step 4. 
- Image Base Map 1 (1674)
- Image Base Map 2 (1680)
+or 2 (1680) and continue with Step 4. 
+Image Base Map 1 (1674)
+Image Base Map 2 (1680)
 
 *Step 4*
 Link your StoryMap to your image tiles. Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."

@@ -189,15 +189,18 @@ As shown above with [Hieronymus Bosch's "Garden of Earthly Delights], (https://s
 
 Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a computer as an image. Maps have a different underlying structure than images.
 
-*Step 1*
+**Step 1**
+
 Select your image. You'll need to find an image that makes sense with your content and the story you want to tell, as well as one that you have the rights to use for your project. The image's dimensions must be at least 2000px by 2000px, and it's best if they're even larger than that. Because these images are so large, you'll see them referred to on the StoryMap site as "Gigapixels."
 
 If you don't have such an image readily available, and aren't able to find or create one, StoryMapJS may not be the best tool for your project.
 
-*Step 2*
+**Step 2**
+
 "Zoomify" your image. For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles, and "zoomifying" your image is a process that converts your image into a series of tiles. You can follow these instructions to Zoomify your image with Adobe Photoshop.
 
-*Step 3 *
+**Step 3**
+
 Host the image tiles on the web. Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow these instructions for hosting your tiles on GitHub.
 
 Alternatively, if you have experience with another web hosting service, feel free to use it instead.
@@ -206,13 +209,15 @@ or 2 (1680) and continue with Step 4.
 Image Base Map 1 (1674)
 Image Base Map 2 (1680)
 
-*Step 4*
+**Step 4**
+
 Link your StoryMap to your image tiles. Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
 Once you've entered a name for your StoryMap, click the "options" button in the top-left corner. Change the "map type" to Gigapixel, as shown below:
   
 In the box that says "Zoomify URL", enter the URL where your tile files are hosted. The GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
 
-*NOTE:*
+**NOTE:**
+
 Image Base Map 1 URL: https://elanaalt.github.io/Versailles-1674/: Max pixel size: 5225 width x 4000 height
 Image Base Map 2 URL: https://elanaalt.github.io/Versailles-1680/: Max pixel size: 5188 width x 4000 height
 

@@ -179,7 +179,7 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 **Using A "Gigapixel" Image As Your Base Map:**
 
-![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image](/images/storymapjs/Screen-Shot-2023-05-01-at-4.55.25-PM.png)
+![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image](/images/storymapjs/10-Screen Shot 2023-05-02 at 6.00.25 PM.png)
 
 As shown above with [Hieronymus Bosch's "Garden of Earthly Delights](https://storymap.knightlab.com/examples/bosch-garden/), it is possible to use a large image (aka "gigapixel") as a base map. This allows you to tell visual and spatial stories with photographs, paintings, historical maps, diagrams, and any other type of image file you have! To see the range of possibilities, here are some more examples of StoryMaps made with images:
  

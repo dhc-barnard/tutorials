@@ -187,7 +187,7 @@ As shown above with [Hieronymus Bosch's "Garden of Earthly Delights](https://sto
  - [Golden Age of Versailles](https://jardins-de-louis.glitch.me/parcours.html)
  - [Southern Literary Trail](https://www.georgiahumanities.org/southern-literary-trail-story-map/)
 
-Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern ---Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a -computer as an image. Maps have a different underlying structure than images.
+Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a -computer as an image. Maps have a different underlying structure than images.
 
  - **Step 1**
 Select your image. You'll need to find an image that makes sense with your content and the story you want to tell, as well as one that you have the rights to use for your project. The image's dimensions must be at least 2000px by 2000px, and it's best if they're even larger than that. Because these images are so large, you'll see them referred to on the StoryMap site as "Gigapixels."

@@ -26,19 +26,26 @@ StoryMapJS is a free, open-source tool that combines narratives with locations, 
 -   Making extremely customized visuals
 -   Collaborating with multiple people on one StoryMap (particularly if you're not in the same physical space)
 
-
-Materials:
-----------
+### Materials:
 
 -   [https://storymap.knightlab.com](https://storymap.knightlab.com/)
 -   Post-It notes or pieces of paper
 
+### Accessibility Considerations:
+
+-   *When using StoryMapJS:*
+    The StoryMapJS tool works with assistive technologies, and people with disabilities can make basic StoryMaps. However, the StoryMaps tool can be frustrating for a visually-disabled person to navigate with a screenreader.  Additionally, much of the text in the StoryMapJS tool lacks sufficient color contrast.
+    When using StoryMap with an image as a map (the "gigapixel" options), a visually-disabled user may run into some problems placing locations markers on the image. If working in a group, this specific task can be assigned to another group member.
+
+-   *When accessing published StoryMaps:* StoryMaps can be difficult to navigate for screenreader users. Because of the ways StoryMapsJS is structured, a person using a screenreader will hear a lot of nonsensical information before getting to the actual content of the StoryMap. This issue is usually worse when using an image as a map. Unfortunately, this issue is not something you can fix when making a StoryMap.
+Please be aware it's always possible that there are accessibility concerns that have yet to be discovered. Additionally, remember that CARDS can always help with making assignments accessible for students with disabilities.
+
 
 # Guided Practice
 
-## What exactly is a StoryMap?
+## Breaking Down a StorymapJS
 
-### StoryMap Examples
+### StoryMapJS Examples
 
 The best way to to understand what a StoryMap is to view one. Take a look at the examples below to get a sense of what you can do with a StoryMap. As you view them, think about the following question: *What do you find compelling or effective in these StoryMaps? What doesn't work as well for you? Why?*
 
@@ -86,10 +93,18 @@ There are so many stories you could tell about yourself! You can come up with yo
 -   A common walking route
 -   Significant life events
 -   Locations of favorite books
+-   Exploration of a personal photograph
 
 ### Step 2
+Once you come up with your story, choose the kind of basemap that best reflects your story. StorymapJS allows you to choose from several kinds of basemaps including Stamen maps, Open Street maps, Custom maps, and MapBox or Gigapixel options. 
+-   Stamen and Open Street maps are best for telling stories that have a spatial component. *These maps use longitudinal and latitudinal location markers.*
+-   MapBox and Gigapixel options are best for people who have created their own maps or are analyzing a 2D visual object. *These maps use reference points instead of specific location markers.*  
 
-Write down locations you'd like to include on your StoryMap, using one post-it note per place (as shown below). Aim for about 5 locations.
+To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](https://github.com/dhc-barnard/tutorials/blob/master/StoryMapJS.md#L201)
+
+### Step 3
+
+Write down locations and/or reference points you'd like to include on your StoryMap, using one post-it note per place (as shown below). Aim for about 5 locations.
 
 *I did this with places in my hometown:*
 
@@ -97,7 +112,7 @@ Write down locations you'd like to include on your StoryMap, using one post-it n
 
 *Above, I did this exercise with favorite places in my hometown.*
 
-### Step 3
+### Step 4
 
 Arrange the post-it notes in the order you'd like the locations to appear in the story map. You may want to try a few different orders before deciding on one!
 
@@ -111,7 +126,7 @@ Arrange the post-it notes in the order you'd like the locations to appear in the
 
 Reflect: *Why did you choose the order you did? Does it follow a chronological pattern, a geographic one (such as going west to east, north to south, in a circle), or something else entirely? How does your order relate to the story you're telling? Are there other orders you could have used?*
 
-### Step 4
+### Step 5
 
 Take a moment to review your work - now that you have more of a narrative structure,  you may discover that you want to change a location or two to better fit with your story. You can also jot down notes about each location. What would you like to say in your description of each one? What media (photo, video, etc.) will you show for each one? It's useful to think about your content before you start making your StoryMap.
 
@@ -163,7 +178,7 @@ Save and preview your work. To make sure nothing gets lost, click the "save" but
 The content of your StoryMap is now complete! But you may want to make it look different - so let's learn how to do that.
 
 Styling Your StoryMap
-
+----------------------
 There are four main aspects of your StoryMap's visual style that you can change within the StoryMap editor:
 
 -   Base map
@@ -175,9 +190,16 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 ![Showing locations of options button, background options button and marker options button](/images/storymapjs/12-Storymap-customstyle.png)
 
-***Base Map:*** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. The custom, MapBox or Gigapixel options are for people who have created their own maps or images. Click "close" to see your changes. 
+**Base Map:** Open the options menu (make sure you're back in editing mode, or it won't open), and find the field for map type, towards the bottom. Choose from several of the Stamen maps, or the Open Street Maps. Reminder: The custom, MapBox or Gigapixel options are for people who have created their own maps or images. Click "close" to see your changes.
 
-**Using A "Gigapixel" Image As Your Base Map:**
+**Fonts:** Like the *base map*, you can change the *fonts* from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
+
+**Background Color/Images:** To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color. Also, be sure to check that your text is readable on your new background in order for the slide to be as accessible as possible! Check out [this link](https://www.w3.org/WAI/perspective-videos/contrast/) for more on how to choose colors with contrast.
+
+**Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well.
+
+Using A "Gigapixel" Image As Your Base Map:
+----------------------
 
 ![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image](/images/storymapjs/15_Screen_Shot_2023-05-02_at_6_00.25_PM.png)
 
@@ -189,32 +211,28 @@ As shown above with [Hieronymus Bosch's "Garden of Earthly Delights](https://sto
 
 Please note that an image file that looks like a map is still an image from a technical perspective. For example, the image in the Southern Literary Trail example is a visual representation of the United States geography. However, it's an image file type and thus is interpreted by a computer as an image. Maps have a different underlying structure than images.
 
- - **Step 1**
-Select your image. You'll need to find an image that makes sense with your content and the story you want to tell, as well as one that you have the rights to use for your project. The image's dimensions must be at least 2000px by 2000px, and it's best if they're even larger than that. Because these images are so large, you'll see them referred to on the StoryMap site as "Gigapixels."
+### Step 1
+*Select your image.* You'll need to find an image that makes sense with your content and the story you want to tell, as well as one that you have the rights to use for your project. The image's dimensions must be at least 2000px by 2000px, and it's best if they're even larger than that. Because these images are so large, you'll see them referred to on the StoryMap site as "Gigapixels."
 
-     If you don't have such an image readily available, and aren't able to find or create one, StoryMapJS may not be the best tool for your project.
+If you don't have such an image readily available, and aren't able to find or create one, StoryMapJS may not be the best tool for your project.
 
- - **Step 2**
-"Zoomify" your image. For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles, and "zoomifying" your image is a process that converts your image into a series of tiles. You can follow these instructions to Zoomify your image with Adobe Photoshop.
+### Step 2
+*"Zoomify" your image.* For your image to work with StoryMapJS, the underlying technical structure of the image must resemble the underlying technical structure of a digital map. Digital maps are made up of tiles, and "zoomifying" your image is a process that converts your image into a series of tiles. You can follow [these instructions to Zoomify your image with the free Zoomify app](https://storymap.knightlab.com/gigapixel/#zoomify-export).
 
- - **Step 3**
-Host the image tiles on the web. Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow these instructions for hosting your tiles on GitHub.
+### Step 3
+*Host the image tiles on the web.* Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow [these instructions for hosting your tiles on GitHub](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md).
 
    Alternatively, if you have experience with another web hosting service, feel free to use it instead.
 
-- **Step 4**
-Link your StoryMap to your image tiles. Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
+### Step 4
+*Link your StoryMap to your image tiles.* Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
 Once you've entered a name for your StoryMap, click the "options" button in the top-left corner. Change the "map type" to Gigapixel, as shown below:
+
+![Example: Storymap Options Menu Gigapixel Map Setting](/images/storymapjs/Gigapixel_Options_Menu_Screen_Shot_2021-04-09_at_5.58.27_PM.png)
   
-   In the box that says "Zoomify URL", enter the URL where your tile files are hosted. The GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
+In the box that says "Zoomify URL", enter the URL where your tile files are hosted. The GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
 
 You're now ready to make your StoryMap, with the image as the base map! The rest of the process will be exactly the same as creating a regular StoryMap, with one small but important difference: Since you're not working with a geographical map, you cannot enter an address or longitude and latitude to place your location markers. Instead, click the image in the spot where you want to place your location markers. You can then click and drag your location marker if you'd like to move it.
-
-**Fonts:** Like the *base map*, you can change the *fonts* from the options menu. Select from the drop down of font options. Most of the fonts are listed in pairs: The first font listed is for the headline text, while the second is for the description test. Click "close" to see your new fonts; you may want to try a few out before deciding.
-
-**Background Color/Images:** To change the background of your slide, click on "background options" in the bottom right corner of the window. You'll then be prompted  to select a new color for your background or upload an image. Remember, this will only change the background for this specific slide - if you want to use this background color. Also, be sure to check that your text is readable on your new background in order for the slide to be as accessible as possible! Check out [this link](https://www.w3.org/WAI/perspective-videos/contrast/) for more on how to choose colors with contrast.
-
-**Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well.
 
 Sharing Your StoryMap
 ---------------------

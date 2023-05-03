@@ -222,7 +222,7 @@ If you don't have such an image readily available, and aren't able to find or cr
 ### Step 3
 *Host the image tiles on the web.* Now that your image has been converted into tiles, the tiles must be placed on a web server. This allows StoryMapJS's servers to access your tiles. While there are several hosting services you could use for this, using GitHub is often the simplest option. You can follow [these instructions for hosting your tiles on GitHub](https://github.com/NUKnightLab/StoryMapJS/blob/master/GITHUB_HOSTING/GITHUB_HOSTING.md).
 
-   Alternatively, if you have experience with another web hosting service, feel free to use it instead.
+Alternatively, if you have experience with another web hosting service, feel free to use it instead.
 
 ### Step 4
 *Link your StoryMap to your image tiles.* Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."

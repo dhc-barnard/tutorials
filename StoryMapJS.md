@@ -228,7 +228,7 @@ Alternatively, if you have experience with another web hosting service, feel fre
 *Link your StoryMap to your image tiles.* Now, you're ready to make your StoryMap using your image! To start your StoryMap, please go to https://storymap.knightlab.com and click the big green button that says "Make a StoryMap."
 Once you've entered a name for your StoryMap, click the "options" button in the top-left corner. Change the "map type" to Gigapixel, as shown below:
 
-![Example: Storymap Options Menu Gigapixel Map Setting](/images/storymapjs/Gigapixel_Options_Menu_Screen_Shot_2021-04-09_at_5.58.27_PM.png)
+![Example: Storymap Options Menu Gigapixel Map Setting](images/storymapjs/Gigapixel-Options-Menu-Screen-Shot-2021-04-09-at-5.58.27-PM.png)
   
 In the box that says "Zoomify URL", enter the URL where your tile files are hosted. The GitHub hosting instructions will show you exactly where to find this URL. Under max image size, enter the pixel width and height of your original image (before Zoomifying it). Click close.
 

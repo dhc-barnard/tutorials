@@ -100,7 +100,7 @@ Once you come up with your story, choose the kind of basemap that best reflects 
 -   Stamen and Open Street maps are best for telling stories that have a spatial component. *These maps use longitudinal and latitudinal location markers.*
 -   MapBox and Gigapixel options are best for people who have created their own maps or are analyzing a 2D visual object. *These maps use reference points instead of specific location markers.*  
 
-To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](#L201)
+To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](#using-a-gigapixel-image-as-your-base-map)
 
 ### Step 3
 
@@ -198,7 +198,7 @@ The *base map* and *fonts* must be the same for the entire StoryMap, while the *
 
 **Location Markers:** To change the location markers, click "marker options," also in the bottom right corner of the window. You'll be prompted to upload an image you'd like to use for your location marker - it will only change the marker for this one slide, so you may want to change your markers for other slides as well.
 
-Using A "Gigapixel" Image As Your Base Map:
+Using A Gigapixel Image As Your Base Map:
 ----------------------
 
 ![Example: Hieronymus Bosch's "Garden of Earthly Delights-Storymap with gigapixel image](/images/storymapjs/15_Screen_Shot_2023-05-02_at_6_00.25_PM.png)

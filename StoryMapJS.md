@@ -100,7 +100,7 @@ Once you come up with your story, choose the kind of basemap that best reflects 
 -   Stamen and Open Street maps are best for telling stories that have a spatial component. *These maps use longitudinal and latitudinal location markers.*
 -   MapBox and Gigapixel options are best for people who have created their own maps or are analyzing a 2D visual object. *These maps use reference points instead of specific location markers.*  
 
-To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](https://github.com/dhc-barnard/tutorials/blob/master/StoryMapJS.md#L201)
+To learn more about how to work with Gigapixel basemaps jump to: [Using A "Gigapixel" Image As Your Base Map](#L201)
 
 ### Step 3
 

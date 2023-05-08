@@ -4,6 +4,8 @@
 
 *updated October 23, 2020 by Miranda Jones-Davidis, Ana Lam*
 
+*updated May 12, 2022 by Ellie Yousif*
+
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

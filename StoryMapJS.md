@@ -4,6 +4,8 @@
 
 *updated October 22, 2020 by Miranda Jones-Davidis*
 
+*updated May 4, 2023 by Eden Segbefia, Jazmin Maço*
+
 <img align="left" width="75" src="/images/scalar/cc.png" alt="Creative Commons license">
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
